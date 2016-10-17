@@ -1,0 +1,2286 @@
+2016-10-15T04:01:16.223Z - normal: Load ~/.CocosCreator/settings.json
+2016-10-15T04:01:16.227Z - normal: checking language setting...
+2016-10-15T04:01:16.228Z - normal: Language: zh
+2016-10-15T04:01:16.295Z - success: protocol editor-framework registered
+2016-10-15T04:01:16.296Z - success: protocol app registered
+2016-10-15T04:01:16.296Z - success: protocol packages registered
+2016-10-15T04:01:16.296Z - success: protocol theme registered
+2016-10-15T04:01:16.296Z - success: protocol unpack registerred
+2016-10-15T04:01:16.552Z - normal: connected!
+2016-10-15T04:01:16.557Z - normal: Check project /Users/mai/mkx-panda/panda-run
+2016-10-15T04:01:16.560Z - normal: Initializing Cocos Creator Editor
+2016-10-15T04:01:17.446Z - normal: Initializing Cocos2d
+2016-10-15T04:01:18.131Z - normal: Initializing Asset Database
+2016-10-15T04:01:18.179Z - success: protocol uuid registerred
+2016-10-15T04:01:18.179Z - success: protocol db registerred
+2016-10-15T04:01:18.179Z - success: protocol thumbnail registerred
+2016-10-15T04:01:18.180Z - normal: Loading editor/builtin packages
+2016-10-15T04:01:18.436Z - success: assets loaded
+2016-10-15T04:01:18.441Z - success: builder loaded
+2016-10-15T04:01:18.447Z - success: hierarchy loaded
+2016-10-15T04:01:18.453Z - success: inspector loaded
+2016-10-15T04:01:18.455Z - success: keystore loaded
+2016-10-15T04:01:18.461Z - success: node-library loaded
+2016-10-15T04:01:18.465Z - success: preferences loaded
+2016-10-15T04:01:18.486Z - success: project-importer loaded
+2016-10-15T04:01:18.490Z - success: project-settings loaded
+2016-10-15T04:01:18.495Z - success: ui-kit loaded
+2016-10-15T04:01:18.511Z - success: ui-grid loaded
+2016-10-15T04:01:18.527Z - success: scene loaded
+2016-10-15T04:01:18.528Z - success: sprite-editor loaded
+2016-10-15T04:01:18.535Z - success: timeline loaded
+2016-10-15T04:01:18.535Z - normal: Loading builtin packages
+2016-10-15T04:01:18.547Z - success: asset-db-debugger loaded
+2016-10-15T04:01:18.549Z - success: code-editor loaded
+2016-10-15T04:01:18.551Z - success: color-picker loaded
+2016-10-15T04:01:18.556Z - success: console loaded
+2016-10-15T04:01:18.560Z - failed: Failed to load package at /Applications/CocosCreator.app/Contents/Resources/app.asar/builtin/ipc-debugger: Host 'editor-framework' require ver ^0.4.0
+2016-10-15T04:01:18.565Z - success: package-manager loaded
+2016-10-15T04:01:18.569Z - success: tester loaded
+2016-10-15T04:01:18.574Z - success: ui-kit-preview-extra loaded
+2016-10-15T04:01:18.579Z - success: ui-kit-preview loaded
+2016-10-15T04:01:18.583Z - success: ui-tree loaded
+2016-10-15T04:01:18.584Z - failed: Failed to load package at /Applications/CocosCreator.app/Contents/Resources/app.asar/builtin/undo-debugger: Host 'editor-framework' require ver ^0.4.0
+2016-10-15T04:01:18.655Z - normal: Initializing project /Users/mai/mkx-panda/panda-run
+2016-10-15T04:01:18.686Z - normal: Loading packages
+2016-10-15T04:01:18.691Z - failed: Failed to load package at /Applications/CocosCreator.app/Contents/Resources/app.asar/builtin/ipc-debugger: Host 'editor-framework' require ver ^0.4.0
+2016-10-15T04:01:18.691Z - failed: Failed to load package at /Applications/CocosCreator.app/Contents/Resources/app.asar/builtin/undo-debugger: Host 'editor-framework' require ver ^0.4.0
+2016-10-15T04:01:18.700Z - normal: Run Application
+2016-10-15T04:01:20.140Z - success: preview server running at http://localhost:7456
+2016-10-15T04:01:27.336Z - normal: 1.2.0
+2016-10-15T06:50:01.137Z - normal: Compiled successfully
+2016-10-15T06:53:44.484Z - normal: Compiled successfully
+2016-10-15T06:53:48.269Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 949.00
+2016-10-15T06:53:48.270Z - normal: Simulator: FRAME SCALE = 1.00
+2016-10-15T06:53:48.451Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-10-15T06:53:48.652Z - normal: Simulator: 
+2016-10-15T06:53:48.653Z - normal: Simulator: {
+2016-10-15T06:53:48.653Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-10-15T06:53:48.654Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-10-15T06:53:48.654Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-10-15T06:53:48.655Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.73
+2016-10-15T06:53:48.655Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-10-15T06:53:48.655Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-10-15T06:53:48.656Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-10-15T06:53:48.656Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-10-15T06:53:48.656Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-10-15T06:53:48.656Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-10-15T06:53:48.656Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-10-15T06:53:48.657Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2016-10-15T06:53:48.657Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-10-15T06:53:48.657Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-10-15T06:53:48.658Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-10-15T06:53:48.658Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-10-15T06:53:48.658Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-10-15T06:53:48.658Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-10-15T06:53:48.658Z - normal: Simulator: }
+2016-10-15T06:53:48.755Z - normal: Simulator: Project Config:
+2016-10-15T06:53:48.756Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-10-15T06:53:48.757Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-10-15T06:53:48.757Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-10-15T06:53:48.758Z - normal: Simulator:     frame size: 960 x 640
+2016-10-15T06:53:48.758Z - normal: Simulator:     frame scale: 1.00
+2016-10-15T06:53:48.759Z - normal: Simulator:     show console: NO
+2016-10-15T06:53:48.759Z - normal: Simulator:     write debug log: NO ()
+2016-10-15T06:53:48.759Z - normal: Simulator:     listen: 
+2016-10-15T06:53:48.760Z - normal: Simulator:     debugger: none
+2016-10-15T06:53:48.760Z - normal: Simulator:     add searching path:
+2016-10-15T06:53:48.760Z - normal: Simulator: ------------------------------------------------
+2016-10-15T06:53:48.761Z - normal: Simulator: LOAD Js FILE: main.js
+2016-10-15T06:53:48.761Z - normal: Simulator: ------------------------------------------------
+2016-10-15T06:53:49.571Z - normal: Simulator: Cocos2d-JS v3.9
+2016-10-15T06:53:49.664Z - normal: Simulator: iShow!
+2016-10-15T06:53:50.479Z - normal: Simulator: 171.7472241207206
+2016-10-15T06:53:50.480Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T06:53:50.973Z - normal: Simulator: on collision enter
+2016-10-15T06:53:52.958Z - normal: Simulator: on collision exit
+2016-10-15T06:53:54.162Z - normal: Simulator: on collision enter
+2016-10-15T06:53:55.531Z - normal: Simulator: on collision exit
+2016-10-15T06:53:56.061Z - normal: Simulator: on collision enter
+2016-10-15T06:53:56.129Z - normal: Simulator: 476.6014187804657
+2016-10-15T06:53:56.129Z - normal: Simulator: 产出一个平台,平台数= 4
+2016-10-15T06:53:58.329Z - normal: Simulator: on collision exit
+2016-10-15T06:53:59.796Z - normal: Simulator: on collision enter
+2016-10-15T06:54:06.928Z - normal: Simulator: on collision exit
+2016-10-15T06:54:07.929Z - normal: Simulator: on collision enter
+2016-10-15T06:54:08.491Z - normal: Simulator: 510.31828713131466
+2016-10-15T06:54:08.492Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T06:54:11.112Z - normal: Simulator: on collision exit
+2016-10-15T06:54:12.296Z - normal: Simulator: on collision enter
+2016-10-15T06:54:12.580Z - normal: Simulator: on collision exit
+2016-10-15T06:54:13.580Z - normal: Simulator: on collision enter
+2016-10-15T06:54:13.630Z - normal: Simulator: 507.17013532581143
+2016-10-15T06:54:13.630Z - normal: Simulator: The thing you want to instantiate must be an object
+2016-10-15T06:54:13.643Z - error: Simulator: TypeError: gold_group is null
+    at a: "gold_group.setPosition(platform_size.width / 2, platform_size.height)" (assets/src/role/platform-generator.js:57:12)
+2016-10-15T06:54:14.679Z - normal: Simulator: on collision exit
+2016-10-15T06:54:16.115Z - normal: Simulator: on collision enter
+2016-10-15T06:54:18.162Z - normal: Simulator: 394.80608171149515
+2016-10-15T06:54:18.164Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T06:54:20.912Z - normal: Simulator: on collision exit
+2016-10-15T06:54:22.296Z - normal: Simulator: on collision enter
+2016-10-15T06:54:23.914Z - normal: Simulator: 93.95674138163508
+2016-10-15T06:54:23.914Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T06:54:25.462Z - normal: Simulator: on collision exit
+2016-10-15T06:54:26.230Z - normal: Simulator: on collision enter
+2016-10-15T06:54:26.861Z - normal: Simulator: on collision exit
+2016-10-15T06:54:28.428Z - normal: Simulator: on collision enter
+2016-10-15T06:54:28.546Z - normal: Simulator: on collision exit
+2016-10-15T06:54:29.546Z - normal: Simulator: on collision enter
+2016-10-15T06:54:30.513Z - normal: Simulator: 35.64241359139236
+2016-10-15T06:54:30.514Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T06:54:31.430Z - normal: Simulator: on collision exit
+2016-10-15T06:54:32.545Z - normal: Simulator: on collision enter
+2016-10-15T06:54:34.759Z - normal: Simulator: on collision exit
+2016-10-15T06:54:35.761Z - normal: Simulator: on collision enter
+2016-10-15T06:54:36.011Z - normal: Simulator: on collision exit
+2016-10-15T06:54:36.417Z - normal: Simulator: 493.5678054714443
+2016-10-15T06:54:36.417Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T06:54:37.011Z - normal: Simulator: on collision enter
+2016-10-15T06:54:37.279Z - normal: Simulator: on collision exit
+2016-10-15T06:54:38.729Z - normal: Simulator: on collision enter
+2016-10-15T06:54:38.784Z - normal: Simulator: on collision exit
+2016-10-15T06:54:39.777Z - normal: Simulator: on collision enter
+2016-10-15T06:54:39.978Z - normal: Simulator: on collision exit
+2016-10-15T06:54:40.992Z - normal: Simulator: on collision enter
+2016-10-15T06:54:41.100Z - normal: Simulator: on collision exit
+2016-10-15T06:54:41.812Z - normal: Simulator: 125.92718404864176
+2016-10-15T06:54:41.812Z - normal: Simulator: The thing you want to instantiate must be an object
+2016-10-15T06:54:41.814Z - error: Simulator: TypeError: gold_group is null
+    at a: "gold_group.setPosition(platform_size.width / 2, platform_size.height)" (assets/src/role/platform-generator.js:57:12)
+2016-10-15T06:54:42.095Z - normal: Simulator: on collision enter
+2016-10-15T06:54:42.295Z - normal: Simulator: on collision exit
+2016-10-15T06:54:44.294Z - normal: Simulator: on collision enter
+2016-10-15T06:54:44.429Z - normal: Simulator: on collision exit
+2016-10-15T06:54:45.428Z - normal: Simulator: on collision enter
+2016-10-15T06:54:45.578Z - normal: Simulator: on collision exit
+2016-10-15T06:54:46.577Z - normal: Simulator: on collision enter
+2016-10-15T06:54:46.713Z - normal: Simulator: on collision exit
+2016-10-15T06:54:46.811Z - normal: Simulator: 508.1027402491203
+2016-10-15T06:54:46.812Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T06:54:48.444Z - normal: Simulator: on collision enter
+2016-10-15T06:54:50.444Z - normal: Simulator: 198.0730405591316
+2016-10-15T06:54:50.445Z - normal: Simulator: The thing you want to instantiate must be an object
+2016-10-15T06:54:50.446Z - error: Simulator: TypeError: gold_group is null
+    at a: "gold_group.setPosition(platform_size.width / 2, platform_size.height)" (assets/src/role/platform-generator.js:57:12)
+2016-10-15T06:54:51.379Z - normal: Simulator: on collision exit
+2016-10-15T06:54:52.429Z - normal: Simulator: on collision enter
+2016-10-15T06:56:26.892Z - normal: Compiled successfully
+2016-10-15T06:56:48.300Z - normal: Compiled successfully
+2016-10-15T06:56:49.315Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 949.00
+2016-10-15T06:56:49.320Z - normal: Simulator: FRAME SCALE = 1.00
+2016-10-15T06:56:49.353Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-10-15T06:56:49.376Z - normal: Simulator: 
+2016-10-15T06:56:49.377Z - normal: Simulator: {
+2016-10-15T06:56:49.378Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-10-15T06:56:49.379Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-10-15T06:56:49.380Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-10-15T06:56:49.381Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.73
+2016-10-15T06:56:49.381Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-10-15T06:56:49.382Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-10-15T06:56:49.382Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-10-15T06:56:49.383Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-10-15T06:56:49.384Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-10-15T06:56:49.385Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-10-15T06:56:49.386Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-10-15T06:56:49.387Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2016-10-15T06:56:49.387Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-10-15T06:56:49.388Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-10-15T06:56:49.389Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-10-15T06:56:49.389Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-10-15T06:56:49.389Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-10-15T06:56:49.390Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-10-15T06:56:49.390Z - normal: Simulator: }
+2016-10-15T06:56:49.402Z - normal: Simulator: Project Config:
+2016-10-15T06:56:49.403Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-10-15T06:56:49.403Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-10-15T06:56:49.405Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-10-15T06:56:49.405Z - normal: Simulator:     frame size: 960 x 640
+2016-10-15T06:56:49.406Z - normal: Simulator:     frame scale: 1.00
+2016-10-15T06:56:49.406Z - normal: Simulator:     show console: NO
+2016-10-15T06:56:49.407Z - normal: Simulator:     write debug log: NO ()
+2016-10-15T06:56:49.407Z - normal: Simulator:     listen: 
+2016-10-15T06:56:49.409Z - normal: Simulator:     debugger: none
+2016-10-15T06:56:49.410Z - normal: Simulator:     add searching path:
+2016-10-15T06:56:49.411Z - normal: Simulator: 
+2016-10-15T06:56:49.411Z - normal: Simulator: 
+2016-10-15T06:56:49.412Z - normal: Simulator: 
+2016-10-15T06:56:49.412Z - normal: Simulator: ------------------------------------------------
+2016-10-15T06:56:49.413Z - normal: Simulator: LOAD Js FILE: main.js
+2016-10-15T06:56:49.414Z - normal: Simulator: ------------------------------------------------
+2016-10-15T06:56:49.636Z - normal: Simulator: Cocos2d-JS v3.9
+2016-10-15T06:56:49.695Z - normal: Simulator: iShow!
+2016-10-15T06:56:49.886Z - normal: Simulator: 406.0001696218001
+2016-10-15T06:56:49.887Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T06:56:50.381Z - normal: Simulator: on collision enter
+2016-10-15T06:56:51.327Z - normal: Simulator: on collision exit
+2016-10-15T06:56:52.527Z - normal: Simulator: on collision enter
+2016-10-15T06:56:53.825Z - normal: Simulator: on collision exit
+2016-10-15T06:56:54.142Z - normal: Simulator: on collision enter
+2016-10-15T07:07:42.497Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 949.00
+2016-10-15T07:07:42.500Z - normal: Simulator: FRAME SCALE = 1.00
+2016-10-15T07:07:42.674Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-10-15T07:07:42.935Z - normal: Simulator: 
+2016-10-15T07:07:42.936Z - normal: Simulator: {
+2016-10-15T07:07:42.936Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-10-15T07:07:42.938Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-10-15T07:07:42.938Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-10-15T07:07:42.938Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.73
+2016-10-15T07:07:42.939Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-10-15T07:07:42.939Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-10-15T07:07:42.939Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-10-15T07:07:42.939Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-10-15T07:07:42.940Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-10-15T07:07:42.940Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-10-15T07:07:42.941Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-10-15T07:07:42.941Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2016-10-15T07:07:42.941Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-10-15T07:07:42.942Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-10-15T07:07:42.942Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-10-15T07:07:42.942Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-10-15T07:07:42.943Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-10-15T07:07:42.943Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-10-15T07:07:42.943Z - normal: Simulator: }
+2016-10-15T07:07:43.201Z - normal: Simulator: Project Config:
+2016-10-15T07:07:43.202Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-10-15T07:07:43.202Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-10-15T07:07:43.202Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-10-15T07:07:43.203Z - normal: Simulator:     frame size: 960 x 640
+2016-10-15T07:07:43.203Z - normal: Simulator:     frame scale: 1.00
+2016-10-15T07:07:43.203Z - normal: Simulator:     show console: NO
+2016-10-15T07:07:43.203Z - normal: Simulator:     write debug log: NO ()
+2016-10-15T07:07:43.204Z - normal: Simulator:     listen: 
+2016-10-15T07:07:43.204Z - normal: Simulator:     debugger: none
+2016-10-15T07:07:43.204Z - normal: Simulator:     add searching path:
+2016-10-15T07:07:43.205Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:07:43.205Z - normal: Simulator: LOAD Js FILE: main.js
+2016-10-15T07:07:43.205Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:07:43.930Z - normal: Simulator: Cocos2d-JS v3.9
+2016-10-15T07:07:44.022Z - normal: Simulator: iShow!
+2016-10-15T07:07:44.494Z - normal: Simulator: 469.94209210093123
+2016-10-15T07:07:44.494Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:07:44.967Z - normal: Simulator: on collision enter
+2016-10-15T07:07:46.808Z - normal: Simulator: on collision exit
+2016-10-15T07:07:47.923Z - normal: Simulator: on collision enter
+2016-10-15T07:07:49.641Z - normal: Simulator: on collision exit
+2016-10-15T07:07:50.342Z - normal: Simulator: 301.6019249434228
+2016-10-15T07:07:50.342Z - normal: Simulator: 产出一个平台,平台数= 4
+2016-10-15T07:07:50.738Z - normal: Simulator: on collision enter
+2016-10-15T07:07:52.793Z - normal: Simulator: on collision exit
+2016-10-15T07:07:54.560Z - normal: Simulator: on collision enter
+2016-10-15T07:07:54.844Z - normal: Simulator: on collision exit
+2016-10-15T07:07:55.844Z - normal: Simulator: on collision enter
+2016-10-15T07:07:55.960Z - normal: Simulator: on collision exit
+2016-10-15T07:07:56.960Z - normal: Simulator: on collision enter
+2016-10-15T07:07:57.661Z - normal: Simulator: 304.36095637299394
+2016-10-15T07:07:57.661Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:08:01.182Z - normal: Simulator: 449.18555037274575
+2016-10-15T07:08:01.182Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:08:01.631Z - normal: Simulator: on collision exit
+2016-10-15T07:08:03.060Z - normal: Simulator: on collision enter
+2016-10-15T07:08:03.345Z - normal: Simulator: on collision exit
+2016-10-15T07:08:04.734Z - normal: Simulator: on collision enter
+2016-10-15T07:08:04.810Z - normal: Simulator: on collision exit
+2016-10-15T07:08:05.826Z - normal: Simulator: on collision enter
+2016-10-15T07:08:06.028Z - normal: Simulator: on collision exit
+2016-10-15T07:08:06.510Z - normal: Simulator: 44.60126613738789
+2016-10-15T07:08:06.517Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:08:07.043Z - normal: Simulator: on collision enter
+2016-10-15T07:08:07.660Z - normal: Simulator: on collision exit
+2016-10-15T07:08:09.160Z - normal: Simulator: on collision enter
+2016-10-15T07:08:09.327Z - normal: Simulator: on collision exit
+2016-10-15T07:08:10.348Z - normal: Simulator: on collision enter
+2016-10-15T07:08:10.944Z - normal: Simulator: on collision exit
+2016-10-15T07:08:11.960Z - normal: Simulator: on collision enter
+2016-10-15T07:08:13.011Z - normal: Simulator: 275.8866960138409
+2016-10-15T07:08:13.012Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T07:10:03.303Z - normal: Compiled successfully
+2016-10-15T07:12:14.279Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 949.00
+2016-10-15T07:12:14.283Z - normal: Simulator: FRAME SCALE = 1.00
+2016-10-15T07:12:14.448Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-10-15T07:12:14.537Z - normal: Simulator: 
+2016-10-15T07:12:14.538Z - normal: Simulator: {
+2016-10-15T07:12:14.538Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-10-15T07:12:14.539Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-10-15T07:12:14.539Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-10-15T07:12:14.539Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.73
+2016-10-15T07:12:14.540Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-10-15T07:12:14.540Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-10-15T07:12:14.540Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-10-15T07:12:14.541Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-10-15T07:12:14.541Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-10-15T07:12:14.542Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-10-15T07:12:14.542Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-10-15T07:12:14.542Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2016-10-15T07:12:14.543Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-10-15T07:12:14.543Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-10-15T07:12:14.543Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-10-15T07:12:14.543Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-10-15T07:12:14.544Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-10-15T07:12:14.544Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-10-15T07:12:14.545Z - normal: Simulator: }
+2016-10-15T07:12:14.562Z - normal: Simulator: Project Config:
+2016-10-15T07:12:14.563Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-10-15T07:12:14.563Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-10-15T07:12:14.564Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-10-15T07:12:14.564Z - normal: Simulator:     frame size: 960 x 640
+2016-10-15T07:12:14.565Z - normal: Simulator:     frame scale: 1.00
+2016-10-15T07:12:14.565Z - normal: Simulator:     show console: NO
+2016-10-15T07:12:14.565Z - normal: Simulator:     write debug log: NO ()
+2016-10-15T07:12:14.566Z - normal: Simulator:     listen: 
+2016-10-15T07:12:14.566Z - normal: Simulator:     debugger: none
+2016-10-15T07:12:14.566Z - normal: Simulator:     add searching path:
+2016-10-15T07:12:14.567Z - normal: Simulator: 
+2016-10-15T07:12:14.567Z - normal: Simulator: 
+2016-10-15T07:12:14.568Z - normal: Simulator: 
+2016-10-15T07:12:14.568Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:12:14.568Z - normal: Simulator: LOAD Js FILE: main.js
+2016-10-15T07:12:14.569Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:12:14.854Z - normal: Simulator: Cocos2d-JS v3.9
+2016-10-15T07:12:14.891Z - normal: Simulator: iShow!
+2016-10-15T07:12:15.109Z - normal: Simulator: 198.49115577268321
+2016-10-15T07:12:15.109Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:12:15.573Z - normal: Simulator: on collision enter
+2016-10-15T07:13:20.693Z - normal: Compiled successfully
+2016-10-15T07:13:23.203Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 949.00
+2016-10-15T07:13:23.204Z - normal: Simulator: FRAME SCALE = 1.00
+2016-10-15T07:13:23.389Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-10-15T07:13:23.474Z - normal: Simulator: 
+2016-10-15T07:13:23.474Z - normal: Simulator: {
+2016-10-15T07:13:23.475Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-10-15T07:13:23.476Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-10-15T07:13:23.477Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-10-15T07:13:23.477Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.73
+2016-10-15T07:13:23.478Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-10-15T07:13:23.478Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-10-15T07:13:23.479Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-10-15T07:13:23.479Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-10-15T07:13:23.479Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-10-15T07:13:23.480Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-10-15T07:13:23.480Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-10-15T07:13:23.480Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2016-10-15T07:13:23.481Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-10-15T07:13:23.481Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-10-15T07:13:23.482Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-10-15T07:13:23.482Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-10-15T07:13:23.482Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-10-15T07:13:23.483Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-10-15T07:13:23.483Z - normal: Simulator: }
+2016-10-15T07:13:23.565Z - normal: Simulator: Project Config:
+2016-10-15T07:13:23.567Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-10-15T07:13:23.568Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-10-15T07:13:23.568Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-10-15T07:13:23.569Z - normal: Simulator:     frame size: 960 x 640
+2016-10-15T07:13:23.570Z - normal: Simulator:     frame scale: 1.00
+2016-10-15T07:13:23.571Z - normal: Simulator:     show console: NO
+2016-10-15T07:13:23.571Z - normal: Simulator:     write debug log: NO ()
+2016-10-15T07:13:23.572Z - normal: Simulator:     listen: 
+2016-10-15T07:13:23.573Z - normal: Simulator:     debugger: none
+2016-10-15T07:13:23.573Z - normal: Simulator:     add searching path:
+2016-10-15T07:13:23.574Z - normal: Simulator: 
+2016-10-15T07:13:23.574Z - normal: Simulator: 
+2016-10-15T07:13:23.575Z - normal: Simulator: 
+2016-10-15T07:13:23.575Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:13:23.575Z - normal: Simulator: LOAD Js FILE: main.js
+2016-10-15T07:13:23.576Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:13:23.838Z - normal: Simulator: Cocos2d-JS v3.9
+2016-10-15T07:13:23.891Z - normal: Simulator: iShow!
+2016-10-15T07:13:24.111Z - normal: Simulator: 60.70289284959715
+2016-10-15T07:13:24.111Z - normal: Simulator: gold index=2
+2016-10-15T07:13:24.135Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:13:24.606Z - normal: Simulator: on collision enter
+2016-10-15T07:13:31.306Z - normal: Simulator: on collision exit
+2016-10-15T07:13:40.313Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 949.00
+2016-10-15T07:13:40.315Z - normal: Simulator: FRAME SCALE = 1.00
+2016-10-15T07:13:40.495Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-10-15T07:13:40.573Z - normal: Simulator: 
+2016-10-15T07:13:40.574Z - normal: Simulator: {
+2016-10-15T07:13:40.576Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-10-15T07:13:40.578Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-10-15T07:13:40.578Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-10-15T07:13:40.579Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.73
+2016-10-15T07:13:40.579Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-10-15T07:13:40.580Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-10-15T07:13:40.580Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-10-15T07:13:40.580Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-10-15T07:13:40.581Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-10-15T07:13:40.581Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-10-15T07:13:40.581Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-10-15T07:13:40.582Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2016-10-15T07:13:40.583Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-10-15T07:13:40.583Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-10-15T07:13:40.584Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-10-15T07:13:40.585Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-10-15T07:13:40.585Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-10-15T07:13:40.585Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-10-15T07:13:40.586Z - normal: Simulator: }
+2016-10-15T07:13:40.615Z - normal: Simulator: Project Config:
+2016-10-15T07:13:40.616Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-10-15T07:13:40.617Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-10-15T07:13:40.617Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-10-15T07:13:40.618Z - normal: Simulator:     frame size: 960 x 640
+2016-10-15T07:13:40.618Z - normal: Simulator:     frame scale: 1.00
+2016-10-15T07:13:40.619Z - normal: Simulator:     show console: NO
+2016-10-15T07:13:40.619Z - normal: Simulator:     write debug log: NO ()
+2016-10-15T07:13:40.620Z - normal: Simulator:     listen: 
+2016-10-15T07:13:40.620Z - normal: Simulator:     debugger: none
+2016-10-15T07:13:40.620Z - normal: Simulator:     add searching path:
+2016-10-15T07:13:40.621Z - normal: Simulator: 
+2016-10-15T07:13:40.621Z - normal: Simulator: 
+2016-10-15T07:13:40.622Z - normal: Simulator: 
+2016-10-15T07:13:40.622Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:13:40.622Z - normal: Simulator: LOAD Js FILE: main.js
+2016-10-15T07:13:40.623Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:13:40.862Z - normal: Simulator: Cocos2d-JS v3.9
+2016-10-15T07:13:40.916Z - normal: Simulator: iShow!
+2016-10-15T07:13:41.111Z - normal: Simulator: 351.11157003128216
+2016-10-15T07:13:41.115Z - normal: Simulator: gold index=1
+2016-10-15T07:13:41.124Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:13:41.599Z - normal: Simulator: on collision enter
+2016-10-15T07:13:42.816Z - normal: Simulator: on collision exit
+2016-10-15T07:13:43.851Z - normal: Simulator: on collision enter
+2016-10-15T07:13:44.418Z - normal: Simulator: on collision exit
+2016-10-15T07:13:45.517Z - normal: Simulator: on collision enter
+2016-10-15T07:13:47.966Z - normal: Simulator: on collision enter
+2016-10-15T07:13:48.016Z - normal: Simulator: on collision exit
+2016-10-15T07:13:48.055Z - normal: Simulator: on collision enter
+2016-10-15T07:13:48.300Z - normal: Simulator: on collision exit
+2016-10-15T07:13:48.571Z - normal: Simulator: on collision exit
+2016-10-15T07:15:22.812Z - normal: Compiled successfully
+2016-10-15T07:22:49.936Z - normal: Compiled successfully
+2016-10-15T07:26:28.890Z - normal: Compiled successfully
+2016-10-15T07:26:38.319Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 949.00
+2016-10-15T07:26:38.321Z - normal: Simulator: FRAME SCALE = 1.00
+2016-10-15T07:26:38.501Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-10-15T07:26:38.577Z - normal: Simulator: 
+2016-10-15T07:26:38.578Z - normal: Simulator: {
+2016-10-15T07:26:38.578Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-10-15T07:26:38.579Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-10-15T07:26:38.579Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-10-15T07:26:38.580Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.73
+2016-10-15T07:26:38.581Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-10-15T07:26:38.581Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-10-15T07:26:38.582Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-10-15T07:26:38.582Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-10-15T07:26:38.583Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-10-15T07:26:38.583Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-10-15T07:26:38.584Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-10-15T07:26:38.585Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2016-10-15T07:26:38.585Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-10-15T07:26:38.586Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-10-15T07:26:38.586Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-10-15T07:26:38.588Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-10-15T07:26:38.589Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-10-15T07:26:38.589Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-10-15T07:26:38.589Z - normal: Simulator: }
+2016-10-15T07:26:38.617Z - normal: Simulator: Project Config:
+2016-10-15T07:26:38.627Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-10-15T07:26:38.627Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-10-15T07:26:38.628Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-10-15T07:26:38.628Z - normal: Simulator:     frame size: 960 x 640
+2016-10-15T07:26:38.629Z - normal: Simulator:     frame scale: 1.00
+2016-10-15T07:26:38.629Z - normal: Simulator:     show console: NO
+2016-10-15T07:26:38.629Z - normal: Simulator:     write debug log: NO ()
+2016-10-15T07:26:38.630Z - normal: Simulator:     listen: 
+2016-10-15T07:26:38.630Z - normal: Simulator:     debugger: none
+2016-10-15T07:26:38.631Z - normal: Simulator:     add searching path:
+2016-10-15T07:26:38.631Z - normal: Simulator: 
+2016-10-15T07:26:38.631Z - normal: Simulator: 
+2016-10-15T07:26:38.631Z - normal: Simulator: 
+2016-10-15T07:26:38.632Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:26:38.632Z - normal: Simulator: LOAD Js FILE: main.js
+2016-10-15T07:26:38.632Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:26:38.914Z - normal: Simulator: Cocos2d-JS v3.9
+2016-10-15T07:26:38.973Z - normal: Simulator: iShow!
+2016-10-15T07:26:39.161Z - normal: Simulator: 177.6337674074319
+2016-10-15T07:26:39.176Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:26:39.651Z - normal: Simulator: on collision enter
+2016-10-15T07:26:41.548Z - normal: Simulator: on collision exit
+2016-10-15T07:26:42.665Z - normal: Simulator: on collision enter
+2016-10-15T07:26:42.666Z - normal: Simulator: on collision exit
+2016-10-15T07:27:56.784Z - normal: Compiled successfully
+2016-10-15T07:28:16.260Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 949.00
+2016-10-15T07:28:16.261Z - normal: Simulator: FRAME SCALE = 1.00
+2016-10-15T07:28:16.403Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-10-15T07:28:16.471Z - normal: Simulator: 
+2016-10-15T07:28:16.472Z - normal: Simulator: {
+2016-10-15T07:28:16.472Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-10-15T07:28:16.473Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-10-15T07:28:16.474Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-10-15T07:28:16.474Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.73
+2016-10-15T07:28:16.475Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-10-15T07:28:16.475Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-10-15T07:28:16.476Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-10-15T07:28:16.476Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-10-15T07:28:16.476Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-10-15T07:28:16.477Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-10-15T07:28:16.478Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-10-15T07:28:16.478Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2016-10-15T07:28:16.479Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-10-15T07:28:16.479Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-10-15T07:28:16.485Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-10-15T07:28:16.485Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-10-15T07:28:16.488Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-10-15T07:28:16.488Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-10-15T07:28:16.489Z - normal: Simulator: }
+2016-10-15T07:28:16.524Z - normal: Simulator: Project Config:
+2016-10-15T07:28:16.524Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-10-15T07:28:16.524Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-10-15T07:28:16.525Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-10-15T07:28:16.525Z - normal: Simulator:     frame size: 960 x 640
+2016-10-15T07:28:16.526Z - normal: Simulator:     frame scale: 1.00
+2016-10-15T07:28:16.526Z - normal: Simulator:     show console: NO
+2016-10-15T07:28:16.526Z - normal: Simulator:     write debug log: NO ()
+2016-10-15T07:28:16.527Z - normal: Simulator:     listen: 
+2016-10-15T07:28:16.527Z - normal: Simulator:     debugger: none
+2016-10-15T07:28:16.527Z - normal: Simulator:     add searching path:
+2016-10-15T07:28:16.528Z - normal: Simulator: 
+2016-10-15T07:28:16.528Z - normal: Simulator: 
+2016-10-15T07:28:16.529Z - normal: Simulator: 
+2016-10-15T07:28:16.529Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:28:16.529Z - normal: Simulator: LOAD Js FILE: main.js
+2016-10-15T07:28:16.530Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:28:16.763Z - normal: Simulator: Cocos2d-JS v3.9
+2016-10-15T07:28:16.819Z - normal: Simulator: iShow!
+2016-10-15T07:28:17.045Z - normal: Simulator: 344.57213360283686
+2016-10-15T07:28:17.059Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:28:17.529Z - normal: Simulator: on collision enter
+2016-10-15T07:28:17.530Z - normal: Simulator: coll tag = 0
+2016-10-15T07:28:19.498Z - normal: Simulator: on collision exit
+2016-10-15T07:28:20.497Z - normal: Simulator: on collision enter
+2016-10-15T07:28:20.497Z - normal: Simulator: coll tag = 1
+2016-10-15T07:28:20.497Z - normal: Simulator: on collision exit
+2016-10-15T07:28:40.632Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 949.00
+2016-10-15T07:28:40.633Z - normal: Simulator: FRAME SCALE = 1.00
+2016-10-15T07:28:40.805Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-10-15T07:28:40.916Z - normal: Simulator: 
+2016-10-15T07:28:40.917Z - normal: Simulator: {
+2016-10-15T07:28:40.917Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-10-15T07:28:40.917Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-10-15T07:28:40.918Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-10-15T07:28:40.918Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.73
+2016-10-15T07:28:40.919Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-10-15T07:28:40.919Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-10-15T07:28:40.919Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-10-15T07:28:40.919Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-10-15T07:28:40.920Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-10-15T07:28:40.920Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-10-15T07:28:40.920Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-10-15T07:28:40.921Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2016-10-15T07:28:40.921Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-10-15T07:28:40.921Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-10-15T07:28:40.922Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-10-15T07:28:40.922Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-10-15T07:28:40.922Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-10-15T07:28:40.923Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-10-15T07:28:40.924Z - normal: Simulator: }
+2016-10-15T07:28:40.938Z - normal: Simulator: Project Config:
+2016-10-15T07:28:40.939Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-10-15T07:28:40.940Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-10-15T07:28:40.940Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-10-15T07:28:40.941Z - normal: Simulator:     frame size: 960 x 640
+2016-10-15T07:28:40.942Z - normal: Simulator:     frame scale: 1.00
+2016-10-15T07:28:40.944Z - normal: Simulator:     show console: NO
+2016-10-15T07:28:40.946Z - normal: Simulator:     write debug log: NO ()
+2016-10-15T07:28:40.947Z - normal: Simulator:     listen: 
+2016-10-15T07:28:40.947Z - normal: Simulator:     debugger: none
+2016-10-15T07:28:40.948Z - normal: Simulator:     add searching path:
+2016-10-15T07:28:40.948Z - normal: Simulator: 
+2016-10-15T07:28:40.949Z - normal: Simulator: 
+2016-10-15T07:28:40.950Z - normal: Simulator: 
+2016-10-15T07:28:40.950Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:28:40.950Z - normal: Simulator: LOAD Js FILE: main.js
+2016-10-15T07:28:40.951Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:28:41.174Z - normal: Simulator: Cocos2d-JS v3.9
+2016-10-15T07:28:41.248Z - normal: Simulator: iShow!
+2016-10-15T07:28:41.440Z - normal: Simulator: 473.8727740706992
+2016-10-15T07:28:41.448Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:28:41.931Z - normal: Simulator: on collision enter
+2016-10-15T07:28:41.931Z - normal: Simulator: coll tag = 0
+2016-10-15T07:28:42.680Z - normal: Simulator: on collision exit
+2016-10-15T07:28:43.979Z - normal: Simulator: on collision enter
+2016-10-15T07:28:43.980Z - normal: Simulator: coll tag = 0
+2016-10-15T07:28:45.529Z - normal: Simulator: on collision exit
+2016-10-15T07:28:46.628Z - normal: Simulator: on collision enter
+2016-10-15T07:28:46.629Z - normal: Simulator: coll tag = 0
+2016-10-15T07:28:50.629Z - normal: Simulator: on collision exit
+2016-10-15T07:28:51.646Z - normal: Simulator: on collision enter
+2016-10-15T07:28:51.646Z - normal: Simulator: coll tag = 0
+2016-10-15T07:28:51.879Z - normal: Simulator: on collision exit
+2016-10-15T07:28:52.895Z - normal: Simulator: on collision enter
+2016-10-15T07:28:52.896Z - normal: Simulator: coll tag = 0
+2016-10-15T07:28:53.219Z - normal: Simulator: on collision exit
+2016-10-15T07:28:54.229Z - normal: Simulator: on collision enter
+2016-10-15T07:28:54.229Z - normal: Simulator: coll tag = 0
+2016-10-15T07:28:54.299Z - normal: Simulator: on collision exit
+2016-10-15T07:28:55.312Z - normal: Simulator: on collision enter
+2016-10-15T07:28:55.312Z - normal: Simulator: coll tag = 0
+2016-10-15T07:28:56.096Z - normal: Simulator: 273.6369749971734
+2016-10-15T07:28:56.115Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T07:28:57.830Z - normal: Simulator: on collision exit
+2016-10-15T07:28:58.480Z - normal: Simulator: on collision enter
+2016-10-15T07:28:58.480Z - normal: Simulator: coll tag = 1
+2016-10-15T07:28:58.482Z - normal: Simulator: on collision enter
+2016-10-15T07:28:58.482Z - normal: Simulator: coll tag = 1
+2016-10-15T07:28:58.482Z - normal: Simulator: on collision exit
+2016-10-15T07:28:58.483Z - normal: Simulator: on collision exit
+2016-10-15T07:28:58.838Z - normal: Simulator: on collision enter
+2016-10-15T07:28:58.838Z - normal: Simulator: coll tag = 1
+2016-10-15T07:28:58.839Z - normal: Simulator: on collision exit
+2016-10-15T07:28:58.957Z - normal: Simulator: on collision enter
+2016-10-15T07:28:58.958Z - normal: Simulator: coll tag = 1
+2016-10-15T07:28:58.958Z - normal: Simulator: on collision exit
+2016-10-15T07:28:59.179Z - normal: Simulator: on collision enter
+2016-10-15T07:28:59.180Z - normal: Simulator: coll tag = 0
+2016-10-15T07:28:59.961Z - normal: Simulator: on collision enter
+2016-10-15T07:28:59.961Z - normal: Simulator: coll tag = 1
+2016-10-15T07:28:59.962Z - normal: Simulator: on collision exit
+2016-10-15T07:29:00.386Z - normal: Simulator: on collision exit
+2016-10-15T07:29:00.507Z - normal: Simulator: on collision enter
+2016-10-15T07:29:00.508Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:00.508Z - normal: Simulator: on collision exit
+2016-10-15T07:29:00.779Z - normal: Simulator: on collision enter
+2016-10-15T07:29:00.779Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:00.779Z - normal: Simulator: on collision exit
+2016-10-15T07:29:01.395Z - normal: Simulator: on collision enter
+2016-10-15T07:29:01.396Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:01.446Z - normal: Simulator: on collision exit
+2016-10-15T07:29:01.679Z - normal: Simulator: 405.9725070257993
+2016-10-15T07:29:01.689Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:29:01.862Z - normal: Simulator: on collision enter
+2016-10-15T07:29:01.863Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:01.863Z - normal: Simulator: on collision exit
+2016-10-15T07:29:02.529Z - normal: Simulator: on collision enter
+2016-10-15T07:29:02.529Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:02.530Z - normal: Simulator: on collision exit
+2016-10-15T07:29:02.720Z - normal: Simulator: on collision enter
+2016-10-15T07:29:02.721Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:03.112Z - normal: Simulator: on collision exit
+2016-10-15T07:29:03.511Z - normal: Simulator: on collision enter
+2016-10-15T07:29:03.511Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:03.512Z - normal: Simulator: on collision exit
+2016-10-15T07:29:04.429Z - normal: Simulator: on collision enter
+2016-10-15T07:29:04.430Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:04.631Z - normal: Simulator: on collision exit
+2016-10-15T07:29:05.779Z - normal: Simulator: on collision enter
+2016-10-15T07:29:05.779Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:05.779Z - normal: Simulator: on collision exit
+2016-10-15T07:29:05.800Z - normal: Simulator: on collision enter
+2016-10-15T07:29:05.801Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:05.863Z - normal: Simulator: on collision enter
+2016-10-15T07:29:05.864Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:05.865Z - normal: Simulator: on collision exit
+2016-10-15T07:29:06.146Z - normal: Simulator: on collision exit
+2016-10-15T07:29:06.584Z - normal: Simulator: on collision enter
+2016-10-15T07:29:06.584Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:06.585Z - normal: Simulator: on collision exit
+2016-10-15T07:29:06.705Z - normal: Simulator: on collision enter
+2016-10-15T07:29:06.705Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:06.706Z - normal: Simulator: on collision exit
+2016-10-15T07:29:07.145Z - normal: Simulator: on collision enter
+2016-10-15T07:29:07.146Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:07.397Z - normal: Simulator: on collision exit
+2016-10-15T07:29:07.596Z - normal: Simulator: on collision enter
+2016-10-15T07:29:07.596Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:07.597Z - normal: Simulator: on collision exit
+2016-10-15T07:29:07.701Z - normal: Simulator: on collision enter
+2016-10-15T07:29:07.702Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:07.703Z - normal: Simulator: on collision exit
+2016-10-15T07:29:07.807Z - normal: Simulator: on collision enter
+2016-10-15T07:29:07.809Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:07.810Z - normal: Simulator: on collision exit
+2016-10-15T07:29:08.412Z - normal: Simulator: 456.9710712660484
+2016-10-15T07:29:08.419Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T07:29:08.419Z - normal: Simulator: on collision enter
+2016-10-15T07:29:08.420Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:09.580Z - normal: Simulator: on collision exit
+2016-10-15T07:29:10.145Z - normal: Simulator: on collision enter
+2016-10-15T07:29:10.146Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:10.146Z - normal: Simulator: on collision exit
+2016-10-15T07:29:10.201Z - normal: Simulator: on collision enter
+2016-10-15T07:29:10.202Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:10.202Z - normal: Simulator: on collision exit
+2016-10-15T07:29:10.340Z - normal: Simulator: on collision enter
+2016-10-15T07:29:10.341Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:10.341Z - normal: Simulator: on collision exit
+2016-10-15T07:29:10.528Z - normal: Simulator: on collision enter
+2016-10-15T07:29:10.528Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:10.529Z - normal: Simulator: on collision enter
+2016-10-15T07:29:10.529Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:10.529Z - normal: Simulator: on collision exit
+2016-10-15T07:29:10.529Z - normal: Simulator: on collision exit
+2016-10-15T07:29:10.828Z - normal: Simulator: on collision enter
+2016-10-15T07:29:10.829Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:10.849Z - normal: Simulator: on collision enter
+2016-10-15T07:29:10.849Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:10.850Z - normal: Simulator: on collision exit
+2016-10-15T07:29:10.883Z - normal: Simulator: 536.913644335084
+2016-10-15T07:29:10.884Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:29:11.629Z - normal: Simulator: on collision enter
+2016-10-15T07:29:11.629Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:11.629Z - normal: Simulator: on collision exit
+2016-10-15T07:29:11.845Z - normal: Simulator: on collision exit
+2016-10-15T07:29:12.024Z - normal: Simulator: on collision enter
+2016-10-15T07:29:12.024Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:12.024Z - normal: Simulator: on collision exit
+2016-10-15T07:29:13.045Z - normal: Simulator: on collision enter
+2016-10-15T07:29:13.046Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:16.262Z - normal: Simulator: on collision exit
+2016-10-15T07:29:17.287Z - normal: Simulator: on collision enter
+2016-10-15T07:29:17.287Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:17.395Z - normal: Simulator: on collision exit
+2016-10-15T07:29:17.980Z - normal: Simulator: 289.25530113799243
+2016-10-15T07:29:17.990Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T07:29:18.412Z - normal: Simulator: on collision enter
+2016-10-15T07:29:18.412Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:18.662Z - normal: Simulator: on collision exit
+2016-10-15T07:29:20.028Z - normal: Simulator: on collision enter
+2016-10-15T07:29:20.028Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:20.362Z - normal: Simulator: on collision exit
+2016-10-15T07:29:20.645Z - normal: Simulator: on collision enter
+2016-10-15T07:29:20.645Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:20.646Z - normal: Simulator: on collision exit
+2016-10-15T07:29:20.728Z - normal: Simulator: on collision enter
+2016-10-15T07:29:20.729Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:20.729Z - normal: Simulator: on collision exit
+2016-10-15T07:29:20.980Z - normal: Simulator: on collision enter
+2016-10-15T07:29:20.981Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:20.981Z - normal: Simulator: on collision exit
+2016-10-15T07:29:21.054Z - normal: Simulator: on collision enter
+2016-10-15T07:29:21.054Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:21.054Z - normal: Simulator: on collision enter
+2016-10-15T07:29:21.055Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:21.055Z - normal: Simulator: on collision exit
+2016-10-15T07:29:21.055Z - normal: Simulator: on collision exit
+2016-10-15T07:29:21.178Z - normal: Simulator: on collision enter
+2016-10-15T07:29:21.178Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:21.178Z - normal: Simulator: on collision exit
+2016-10-15T07:29:21.362Z - normal: Simulator: on collision enter
+2016-10-15T07:29:21.363Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:21.512Z - normal: Simulator: on collision exit
+2016-10-15T07:29:21.929Z - normal: Simulator: on collision enter
+2016-10-15T07:29:21.930Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:21.930Z - normal: Simulator: on collision exit
+2016-10-15T07:29:22.328Z - normal: Simulator: on collision enter
+2016-10-15T07:29:22.329Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:22.329Z - normal: Simulator: on collision exit
+2016-10-15T07:29:22.528Z - normal: Simulator: on collision enter
+2016-10-15T07:29:22.528Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:22.595Z - normal: Simulator: on collision exit
+2016-10-15T07:29:22.865Z - normal: Simulator: 135.4428360247433
+2016-10-15T07:29:22.868Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T07:29:23.611Z - normal: Simulator: on collision enter
+2016-10-15T07:29:23.612Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:23.745Z - normal: Simulator: on collision exit
+2016-10-15T07:29:25.007Z - normal: Simulator: on collision enter
+2016-10-15T07:29:25.008Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:25.120Z - normal: Simulator: on collision exit
+2016-10-15T07:29:26.128Z - normal: Simulator: on collision enter
+2016-10-15T07:29:26.129Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:26.177Z - normal: Simulator: on collision exit
+2016-10-15T07:29:27.178Z - normal: Simulator: on collision enter
+2016-10-15T07:29:27.178Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:27.362Z - normal: Simulator: 307.46718609179464
+2016-10-15T07:29:27.366Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T07:29:28.545Z - normal: Simulator: on collision exit
+2016-10-15T07:29:29.127Z - normal: Simulator: 299.26939015998124
+2016-10-15T07:29:29.128Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:29:29.646Z - normal: Simulator: on collision enter
+2016-10-15T07:29:29.646Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:30.112Z - normal: Simulator: on collision exit
+2016-10-15T07:29:30.622Z - normal: Simulator: on collision enter
+2016-10-15T07:29:30.622Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:30.622Z - normal: Simulator: on collision exit
+2016-10-15T07:29:30.693Z - normal: Simulator: on collision enter
+2016-10-15T07:29:30.694Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:30.694Z - normal: Simulator: on collision exit
+2016-10-15T07:29:30.813Z - normal: Simulator: 354.5527179220503
+2016-10-15T07:29:30.821Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:29:30.912Z - normal: Simulator: on collision enter
+2016-10-15T07:29:30.912Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:30.913Z - normal: Simulator: on collision exit
+2016-10-15T07:29:30.978Z - normal: Simulator: on collision enter
+2016-10-15T07:29:30.978Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:31.145Z - normal: Simulator: on collision exit
+2016-10-15T07:29:31.228Z - normal: Simulator: on collision enter
+2016-10-15T07:29:31.228Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:31.228Z - normal: Simulator: on collision exit
+2016-10-15T07:29:31.345Z - normal: Simulator: on collision enter
+2016-10-15T07:29:31.346Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:31.346Z - normal: Simulator: on collision exit
+2016-10-15T07:29:31.462Z - normal: Simulator: on collision enter
+2016-10-15T07:29:31.462Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:31.462Z - normal: Simulator: on collision exit
+2016-10-15T07:29:31.628Z - normal: Simulator: on collision enter
+2016-10-15T07:29:31.629Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:31.629Z - normal: Simulator: on collision exit
+2016-10-15T07:29:32.328Z - normal: Simulator: on collision enter
+2016-10-15T07:29:32.328Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:32.329Z - normal: Simulator: on collision exit
+2016-10-15T07:29:32.394Z - normal: Simulator: on collision enter
+2016-10-15T07:29:32.395Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:32.395Z - normal: Simulator: on collision exit
+2016-10-15T07:29:32.462Z - normal: Simulator: on collision enter
+2016-10-15T07:29:32.463Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:32.464Z - normal: Simulator: on collision exit
+2016-10-15T07:29:32.545Z - normal: Simulator: on collision enter
+2016-10-15T07:29:32.545Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:32.545Z - normal: Simulator: on collision exit
+2016-10-15T07:29:32.646Z - normal: Simulator: on collision enter
+2016-10-15T07:29:32.646Z - normal: Simulator: coll tag = 0
+2016-10-15T07:29:32.794Z - normal: Simulator: on collision exit
+2016-10-15T07:29:33.028Z - normal: Simulator: on collision enter
+2016-10-15T07:29:33.028Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:33.029Z - normal: Simulator: on collision exit
+2016-10-15T07:29:33.177Z - normal: Simulator: on collision enter
+2016-10-15T07:29:33.178Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:33.179Z - normal: Simulator: on collision exit
+2016-10-15T07:29:33.311Z - normal: Simulator: on collision enter
+2016-10-15T07:29:33.312Z - normal: Simulator: coll tag = 1
+2016-10-15T07:29:33.312Z - normal: Simulator: on collision exit
+2016-10-15T07:29:33.645Z - normal: Simulator: 245.59165853632558
+2016-10-15T07:29:33.652Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:29:33.795Z - normal: Simulator: on collision enter
+2016-10-15T07:29:33.796Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:04.012Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 949.00
+2016-10-15T07:33:04.015Z - normal: Simulator: FRAME SCALE = 1.00
+2016-10-15T07:33:04.195Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-10-15T07:33:04.280Z - normal: Simulator: 
+2016-10-15T07:33:04.281Z - normal: Simulator: {
+2016-10-15T07:33:04.295Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-10-15T07:33:04.296Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-10-15T07:33:04.296Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-10-15T07:33:04.297Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.73
+2016-10-15T07:33:04.298Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-10-15T07:33:04.298Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-10-15T07:33:04.299Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-10-15T07:33:04.299Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-10-15T07:33:04.300Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-10-15T07:33:04.300Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-10-15T07:33:04.301Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-10-15T07:33:04.301Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2016-10-15T07:33:04.301Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-10-15T07:33:04.302Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-10-15T07:33:04.302Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-10-15T07:33:04.303Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-10-15T07:33:04.304Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-10-15T07:33:04.304Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-10-15T07:33:04.305Z - normal: Simulator: }
+2016-10-15T07:33:04.325Z - normal: Simulator: Project Config:
+2016-10-15T07:33:04.326Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-10-15T07:33:04.326Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-10-15T07:33:04.327Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-10-15T07:33:04.327Z - normal: Simulator:     frame size: 960 x 640
+2016-10-15T07:33:04.327Z - normal: Simulator:     frame scale: 1.00
+2016-10-15T07:33:04.328Z - normal: Simulator:     show console: NO
+2016-10-15T07:33:04.328Z - normal: Simulator:     write debug log: NO ()
+2016-10-15T07:33:04.328Z - normal: Simulator:     listen: 
+2016-10-15T07:33:04.330Z - normal: Simulator:     debugger: none
+2016-10-15T07:33:04.330Z - normal: Simulator:     add searching path:
+2016-10-15T07:33:04.330Z - normal: Simulator: 
+2016-10-15T07:33:04.330Z - normal: Simulator: 
+2016-10-15T07:33:04.331Z - normal: Simulator: 
+2016-10-15T07:33:04.331Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:33:04.331Z - normal: Simulator: LOAD Js FILE: main.js
+2016-10-15T07:33:04.331Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:33:04.584Z - normal: Simulator: Cocos2d-JS v3.9
+2016-10-15T07:33:04.657Z - normal: Simulator: iShow!
+2016-10-15T07:33:04.861Z - normal: Simulator: 532.0332726031387
+2016-10-15T07:33:04.886Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:33:05.356Z - normal: Simulator: on collision enter
+2016-10-15T07:33:05.357Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:06.555Z - normal: Simulator: on collision exit
+2016-10-15T07:33:07.584Z - normal: Simulator: on collision enter
+2016-10-15T07:33:07.585Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:07.821Z - normal: Simulator: on collision exit
+2016-10-15T07:33:09.539Z - normal: Simulator: on collision enter
+2016-10-15T07:33:09.540Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:09.670Z - normal: Simulator: on collision exit
+2016-10-15T07:33:10.672Z - normal: Simulator: on collision enter
+2016-10-15T07:33:10.672Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:10.753Z - normal: Simulator: on collision exit
+2016-10-15T07:33:11.755Z - normal: Simulator: on collision enter
+2016-10-15T07:33:11.755Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:11.938Z - normal: Simulator: on collision exit
+2016-10-15T07:33:12.938Z - normal: Simulator: on collision enter
+2016-10-15T07:33:12.938Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:13.104Z - normal: Simulator: on collision exit
+2016-10-15T07:33:14.005Z - normal: Simulator: on collision enter
+2016-10-15T07:33:14.006Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:14.008Z - normal: Simulator: on collision enter
+2016-10-15T07:33:14.008Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:14.009Z - normal: Simulator: on collision exit
+2016-10-15T07:33:14.009Z - normal: Simulator: on collision exit
+2016-10-15T07:33:14.087Z - normal: Simulator: on collision enter
+2016-10-15T07:33:14.087Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:14.088Z - normal: Simulator: on collision enter
+2016-10-15T07:33:14.088Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:14.089Z - normal: Simulator: on collision exit
+2016-10-15T07:33:14.089Z - normal: Simulator: on collision exit
+2016-10-15T07:33:14.110Z - normal: Simulator: on collision enter
+2016-10-15T07:33:14.110Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:14.285Z - normal: Simulator: on collision exit
+2016-10-15T07:33:14.399Z - normal: Simulator: on collision enter
+2016-10-15T07:33:14.399Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:14.400Z - normal: Simulator: on collision enter
+2016-10-15T07:33:14.400Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:14.400Z - normal: Simulator: on collision exit
+2016-10-15T07:33:14.400Z - normal: Simulator: on collision exit
+2016-10-15T07:33:15.288Z - normal: Simulator: on collision enter
+2016-10-15T07:33:15.288Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:15.423Z - normal: Simulator: on collision exit
+2016-10-15T07:33:16.423Z - normal: Simulator: on collision enter
+2016-10-15T07:33:16.423Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:16.572Z - normal: Simulator: on collision exit
+2016-10-15T07:33:17.572Z - normal: Simulator: on collision enter
+2016-10-15T07:33:17.573Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:18.423Z - normal: Simulator: on collision exit
+2016-10-15T07:33:19.438Z - normal: Simulator: on collision enter
+2016-10-15T07:33:19.438Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:19.525Z - normal: Simulator: 170.740847185654
+2016-10-15T07:33:19.544Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T07:33:19.796Z - normal: Simulator: on collision exit
+2016-10-15T07:33:20.809Z - normal: Simulator: on collision enter
+2016-10-15T07:33:20.809Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:20.924Z - normal: Simulator: on collision exit
+2016-10-15T07:33:22.086Z - normal: Simulator: on collision enter
+2016-10-15T07:33:22.087Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:25.122Z - normal: Simulator: 441.8660666859682
+2016-10-15T07:33:25.128Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:33:26.555Z - normal: Simulator: on collision exit
+2016-10-15T07:33:26.687Z - normal: Simulator: on collision enter
+2016-10-15T07:33:26.687Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:26.688Z - normal: Simulator: on collision exit
+2016-10-15T07:33:26.806Z - normal: Simulator: on collision enter
+2016-10-15T07:33:26.806Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:26.806Z - normal: Simulator: on collision exit
+2016-10-15T07:33:26.827Z - normal: Simulator: on collision enter
+2016-10-15T07:33:26.828Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:26.828Z - normal: Simulator: on collision exit
+2016-10-15T07:33:27.370Z - normal: Simulator: on collision enter
+2016-10-15T07:33:27.371Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:27.371Z - normal: Simulator: on collision exit
+2016-10-15T07:33:27.394Z - normal: Simulator: on collision enter
+2016-10-15T07:33:27.394Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:27.394Z - normal: Simulator: on collision exit
+2016-10-15T07:33:27.555Z - normal: Simulator: on collision enter
+2016-10-15T07:33:27.555Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:27.754Z - normal: Simulator: on collision exit
+2016-10-15T07:33:27.818Z - normal: Simulator: on collision enter
+2016-10-15T07:33:27.818Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:27.819Z - normal: Simulator: on collision exit
+2016-10-15T07:33:28.754Z - normal: Simulator: on collision enter
+2016-10-15T07:33:28.755Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:28.795Z - normal: Simulator: on collision exit
+2016-10-15T07:33:29.556Z - normal: Simulator: on collision enter
+2016-10-15T07:33:29.556Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:29.557Z - normal: Simulator: on collision exit
+2016-10-15T07:33:29.603Z - normal: Simulator: on collision enter
+2016-10-15T07:33:29.604Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:29.604Z - normal: Simulator: on collision enter
+2016-10-15T07:33:29.604Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:29.605Z - normal: Simulator: on collision exit
+2016-10-15T07:33:29.605Z - normal: Simulator: on collision exit
+2016-10-15T07:33:29.673Z - normal: Simulator: on collision enter
+2016-10-15T07:33:29.674Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:29.674Z - normal: Simulator: on collision enter
+2016-10-15T07:33:29.675Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:29.675Z - normal: Simulator: on collision exit
+2016-10-15T07:33:29.675Z - normal: Simulator: on collision exit
+2016-10-15T07:33:29.736Z - normal: Simulator: on collision enter
+2016-10-15T07:33:29.737Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:29.737Z - normal: Simulator: on collision exit
+2016-10-15T07:33:29.782Z - normal: Simulator: on collision enter
+2016-10-15T07:33:29.783Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:29.783Z - normal: Simulator: on collision exit
+2016-10-15T07:33:29.971Z - normal: Simulator: 12.919855328395393
+2016-10-15T07:33:29.982Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:33:29.983Z - normal: Simulator: on collision enter
+2016-10-15T07:33:29.983Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:30.438Z - normal: Simulator: on collision enter
+2016-10-15T07:33:30.438Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:30.438Z - normal: Simulator: on collision exit
+2016-10-15T07:33:32.121Z - normal: Simulator: on collision exit
+2016-10-15T07:33:32.837Z - normal: Simulator: on collision enter
+2016-10-15T07:33:32.838Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:35.321Z - normal: Simulator: on collision exit
+2016-10-15T07:33:35.409Z - normal: Simulator: on collision enter
+2016-10-15T07:33:35.409Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:35.410Z - normal: Simulator: on collision exit
+2016-10-15T07:33:35.588Z - normal: Simulator: on collision enter
+2016-10-15T07:33:35.589Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:35.589Z - normal: Simulator: on collision enter
+2016-10-15T07:33:35.590Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:35.590Z - normal: Simulator: on collision exit
+2016-10-15T07:33:35.590Z - normal: Simulator: on collision exit
+2016-10-15T07:33:36.136Z - normal: Simulator: on collision enter
+2016-10-15T07:33:36.137Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:36.137Z - normal: Simulator: on collision exit
+2016-10-15T07:33:36.304Z - normal: Simulator: on collision enter
+2016-10-15T07:33:36.305Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:36.305Z - normal: Simulator: on collision exit
+2016-10-15T07:33:36.330Z - normal: Simulator: on collision enter
+2016-10-15T07:33:36.330Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:36.434Z - normal: Simulator: on collision exit
+2016-10-15T07:33:36.854Z - normal: Simulator: on collision enter
+2016-10-15T07:33:36.854Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:36.855Z - normal: Simulator: on collision exit
+2016-10-15T07:33:37.336Z - normal: Simulator: on collision enter
+2016-10-15T07:33:37.338Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:37.338Z - normal: Simulator: on collision exit
+2016-10-15T07:33:37.688Z - normal: Simulator: 437.7829376113249
+2016-10-15T07:33:37.695Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T07:33:37.753Z - normal: Simulator: on collision enter
+2016-10-15T07:33:37.753Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:37.837Z - normal: Simulator: on collision exit
+2016-10-15T07:33:38.137Z - normal: Simulator: on collision enter
+2016-10-15T07:33:38.138Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:38.139Z - normal: Simulator: on collision exit
+2016-10-15T07:33:38.287Z - normal: Simulator: on collision enter
+2016-10-15T07:33:38.287Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:38.288Z - normal: Simulator: on collision exit
+2016-10-15T07:33:39.188Z - normal: Simulator: on collision enter
+2016-10-15T07:33:39.188Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:39.571Z - normal: Simulator: on collision exit
+2016-10-15T07:33:40.287Z - normal: Simulator: on collision enter
+2016-10-15T07:33:40.288Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:40.289Z - normal: Simulator: on collision exit
+2016-10-15T07:33:40.354Z - normal: Simulator: on collision enter
+2016-10-15T07:33:40.354Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:40.355Z - normal: Simulator: on collision exit
+2016-10-15T07:33:40.437Z - normal: Simulator: on collision enter
+2016-10-15T07:33:40.437Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:40.438Z - normal: Simulator: on collision exit
+2016-10-15T07:33:40.476Z - normal: Simulator: on collision enter
+2016-10-15T07:33:40.477Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:40.477Z - normal: Simulator: on collision exit
+2016-10-15T07:33:40.496Z - normal: Simulator: on collision enter
+2016-10-15T07:33:40.497Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:40.497Z - normal: Simulator: on collision exit
+2016-10-15T07:33:40.787Z - normal: Simulator: on collision enter
+2016-10-15T07:33:40.788Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:40.904Z - normal: Simulator: on collision enter
+2016-10-15T07:33:40.905Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:40.906Z - normal: Simulator: on collision exit
+2016-10-15T07:33:41.038Z - normal: Simulator: on collision exit
+2016-10-15T07:33:41.422Z - normal: Simulator: 133.6148033605666
+2016-10-15T07:33:41.432Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:33:41.433Z - normal: Simulator: on collision enter
+2016-10-15T07:33:41.433Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:41.434Z - normal: Simulator: on collision exit
+2016-10-15T07:33:41.870Z - normal: Simulator: on collision enter
+2016-10-15T07:33:41.871Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:41.871Z - normal: Simulator: on collision exit
+2016-10-15T07:33:42.037Z - normal: Simulator: on collision enter
+2016-10-15T07:33:42.038Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:42.454Z - normal: Simulator: on collision exit
+2016-10-15T07:33:43.853Z - normal: Simulator: on collision enter
+2016-10-15T07:33:43.854Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:43.919Z - normal: Simulator: on collision exit
+2016-10-15T07:33:44.804Z - normal: Simulator: on collision enter
+2016-10-15T07:33:44.805Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:44.805Z - normal: Simulator: on collision enter
+2016-10-15T07:33:44.806Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:44.807Z - normal: Simulator: on collision exit
+2016-10-15T07:33:44.807Z - normal: Simulator: on collision exit
+2016-10-15T07:33:44.902Z - normal: Simulator: on collision enter
+2016-10-15T07:33:44.902Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:44.903Z - normal: Simulator: on collision enter
+2016-10-15T07:33:44.903Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:44.903Z - normal: Simulator: on collision exit
+2016-10-15T07:33:44.904Z - normal: Simulator: on collision exit
+2016-10-15T07:33:44.917Z - normal: Simulator: on collision enter
+2016-10-15T07:33:44.917Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:45.050Z - normal: Simulator: on collision exit
+2016-10-15T07:33:45.166Z - normal: Simulator: on collision enter
+2016-10-15T07:33:45.166Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:45.166Z - normal: Simulator: on collision enter
+2016-10-15T07:33:45.167Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:45.167Z - normal: Simulator: on collision exit
+2016-10-15T07:33:45.168Z - normal: Simulator: on collision exit
+2016-10-15T07:33:46.053Z - normal: Simulator: on collision enter
+2016-10-15T07:33:46.054Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:46.236Z - normal: Simulator: on collision exit
+2016-10-15T07:33:47.237Z - normal: Simulator: on collision enter
+2016-10-15T07:33:47.237Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:47.336Z - normal: Simulator: on collision exit
+2016-10-15T07:33:47.669Z - normal: Simulator: 225.62195516505497
+2016-10-15T07:33:47.678Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T07:33:48.336Z - normal: Simulator: on collision enter
+2016-10-15T07:33:48.337Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:48.500Z - normal: Simulator: on collision exit
+2016-10-15T07:33:49.904Z - normal: Simulator: on collision enter
+2016-10-15T07:33:49.904Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:50.309Z - normal: Simulator: on collision enter
+2016-10-15T07:33:50.309Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:50.310Z - normal: Simulator: on collision exit
+2016-10-15T07:33:50.412Z - normal: Simulator: on collision enter
+2016-10-15T07:33:50.413Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:50.413Z - normal: Simulator: on collision exit
+2016-10-15T07:33:50.414Z - normal: Simulator: on collision exit
+2016-10-15T07:33:50.469Z - normal: Simulator: on collision enter
+2016-10-15T07:33:50.470Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:50.470Z - normal: Simulator: on collision exit
+2016-10-15T07:33:50.505Z - normal: Simulator: on collision enter
+2016-10-15T07:33:50.506Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:50.506Z - normal: Simulator: on collision exit
+2016-10-15T07:33:50.529Z - normal: Simulator: on collision enter
+2016-10-15T07:33:50.530Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:50.530Z - normal: Simulator: on collision exit
+2016-10-15T07:33:51.087Z - normal: Simulator: on collision enter
+2016-10-15T07:33:51.087Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:51.088Z - normal: Simulator: on collision exit
+2016-10-15T07:33:51.415Z - normal: Simulator: on collision enter
+2016-10-15T07:33:51.416Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:51.517Z - normal: Simulator: on collision exit
+2016-10-15T07:33:51.753Z - normal: Simulator: on collision enter
+2016-10-15T07:33:51.753Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:51.754Z - normal: Simulator: on collision exit
+2016-10-15T07:33:52.072Z - normal: Simulator: 205.06921715311015
+2016-10-15T07:33:52.081Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T07:33:52.334Z - normal: Simulator: on collision enter
+2016-10-15T07:33:52.335Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:52.335Z - normal: Simulator: on collision exit
+2016-10-15T07:33:52.520Z - normal: Simulator: on collision enter
+2016-10-15T07:33:52.520Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:53.106Z - normal: Simulator: on collision exit
+2016-10-15T07:33:53.954Z - normal: Simulator: on collision enter
+2016-10-15T07:33:53.954Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:53.955Z - normal: Simulator: on collision exit
+2016-10-15T07:33:53.994Z - normal: Simulator: on collision enter
+2016-10-15T07:33:53.995Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:53.995Z - normal: Simulator: on collision exit
+2016-10-15T07:33:54.219Z - normal: Simulator: on collision enter
+2016-10-15T07:33:54.220Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:54.220Z - normal: Simulator: on collision exit
+2016-10-15T07:33:54.421Z - normal: Simulator: on collision enter
+2016-10-15T07:33:54.422Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:54.422Z - normal: Simulator: on collision exit
+2016-10-15T07:33:54.518Z - normal: Simulator: on collision enter
+2016-10-15T07:33:54.519Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:54.544Z - normal: Simulator: on collision exit
+2016-10-15T07:33:55.002Z - normal: Simulator: 255.35340980874287
+2016-10-15T07:33:55.014Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:33:55.027Z - normal: Simulator: on collision enter
+2016-10-15T07:33:55.028Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:55.028Z - normal: Simulator: on collision exit
+2016-10-15T07:33:55.569Z - normal: Simulator: on collision enter
+2016-10-15T07:33:55.570Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:55.570Z - normal: Simulator: on collision exit
+2016-10-15T07:33:55.668Z - normal: Simulator: on collision enter
+2016-10-15T07:33:55.669Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:55.670Z - normal: Simulator: on collision exit
+2016-10-15T07:33:55.870Z - normal: Simulator: on collision enter
+2016-10-15T07:33:55.871Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:55.952Z - normal: Simulator: on collision enter
+2016-10-15T07:33:55.953Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:55.953Z - normal: Simulator: on collision exit
+2016-10-15T07:33:56.438Z - normal: Simulator: on collision exit
+2016-10-15T07:33:56.636Z - normal: Simulator: 46.27440736577277
+2016-10-15T07:33:56.647Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:33:56.661Z - normal: Simulator: on collision enter
+2016-10-15T07:33:56.661Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:56.662Z - normal: Simulator: on collision exit
+2016-10-15T07:33:56.834Z - normal: Simulator: on collision enter
+2016-10-15T07:33:56.835Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:56.835Z - normal: Simulator: on collision exit
+2016-10-15T07:33:57.018Z - normal: Simulator: on collision enter
+2016-10-15T07:33:57.019Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:57.020Z - normal: Simulator: on collision exit
+2016-10-15T07:33:57.076Z - normal: Simulator: on collision enter
+2016-10-15T07:33:57.077Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:57.077Z - normal: Simulator: on collision exit
+2016-10-15T07:33:57.417Z - normal: Simulator: on collision enter
+2016-10-15T07:33:57.417Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:57.417Z - normal: Simulator: on collision exit
+2016-10-15T07:33:57.524Z - normal: Simulator: on collision enter
+2016-10-15T07:33:57.525Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:57.525Z - normal: Simulator: on collision exit
+2016-10-15T07:33:57.700Z - normal: Simulator: on collision enter
+2016-10-15T07:33:57.701Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:57.767Z - normal: Simulator: on collision exit
+2016-10-15T07:33:57.832Z - normal: Simulator: on collision enter
+2016-10-15T07:33:57.833Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:57.833Z - normal: Simulator: on collision exit
+2016-10-15T07:33:57.986Z - normal: Simulator: on collision enter
+2016-10-15T07:33:57.987Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:57.987Z - normal: Simulator: on collision exit
+2016-10-15T07:33:58.120Z - normal: Simulator: on collision enter
+2016-10-15T07:33:58.121Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:58.121Z - normal: Simulator: on collision exit
+2016-10-15T07:33:58.200Z - normal: Simulator: on collision enter
+2016-10-15T07:33:58.200Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:58.201Z - normal: Simulator: on collision exit
+2016-10-15T07:33:59.404Z - normal: Simulator: on collision enter
+2016-10-15T07:33:59.405Z - normal: Simulator: coll tag = 0
+2016-10-15T07:33:59.537Z - normal: Simulator: on collision exit
+2016-10-15T07:33:59.593Z - normal: Simulator: on collision enter
+2016-10-15T07:33:59.594Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:59.594Z - normal: Simulator: on collision exit
+2016-10-15T07:33:59.620Z - normal: Simulator: on collision enter
+2016-10-15T07:33:59.620Z - normal: Simulator: coll tag = 1
+2016-10-15T07:33:59.621Z - normal: Simulator: on collision exit
+2016-10-15T07:34:00.219Z - normal: Simulator: on collision enter
+2016-10-15T07:34:00.220Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:00.220Z - normal: Simulator: on collision exit
+2016-10-15T07:34:00.603Z - normal: Simulator: on collision enter
+2016-10-15T07:34:00.603Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:00.604Z - normal: Simulator: on collision exit
+2016-10-15T07:34:00.902Z - normal: Simulator: on collision enter
+2016-10-15T07:34:00.902Z - normal: Simulator: coll tag = 0
+2016-10-15T07:34:01.000Z - normal: Simulator: on collision enter
+2016-10-15T07:34:01.001Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:01.001Z - normal: Simulator: on collision exit
+2016-10-15T07:34:01.034Z - normal: Simulator: on collision exit
+2016-10-15T07:34:01.266Z - normal: Simulator: on collision enter
+2016-10-15T07:34:01.266Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:01.268Z - normal: Simulator: on collision exit
+2016-10-15T07:34:01.437Z - normal: Simulator: on collision enter
+2016-10-15T07:34:01.437Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:01.438Z - normal: Simulator: on collision exit
+2016-10-15T07:34:01.603Z - normal: Simulator: 28.62757003611336
+2016-10-15T07:34:01.609Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T07:34:02.402Z - normal: Simulator: on collision enter
+2016-10-15T07:34:02.402Z - normal: Simulator: coll tag = 0
+2016-10-15T07:34:02.516Z - normal: Simulator: on collision exit
+2016-10-15T07:34:03.653Z - normal: Simulator: on collision enter
+2016-10-15T07:34:03.654Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:03.654Z - normal: Simulator: on collision exit
+2016-10-15T07:34:03.707Z - normal: Simulator: on collision enter
+2016-10-15T07:34:03.708Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:03.708Z - normal: Simulator: on collision enter
+2016-10-15T07:34:03.709Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:03.709Z - normal: Simulator: on collision exit
+2016-10-15T07:34:03.709Z - normal: Simulator: on collision exit
+2016-10-15T07:34:03.769Z - normal: Simulator: on collision enter
+2016-10-15T07:34:03.770Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:03.770Z - normal: Simulator: on collision enter
+2016-10-15T07:34:03.771Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:03.771Z - normal: Simulator: on collision enter
+2016-10-15T07:34:03.771Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:03.772Z - normal: Simulator: on collision exit
+2016-10-15T07:34:03.772Z - normal: Simulator: on collision exit
+2016-10-15T07:34:03.772Z - normal: Simulator: on collision exit
+2016-10-15T07:34:03.849Z - normal: Simulator: on collision enter
+2016-10-15T07:34:03.851Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:03.851Z - normal: Simulator: on collision exit
+2016-10-15T07:34:03.899Z - normal: Simulator: on collision enter
+2016-10-15T07:34:03.900Z - normal: Simulator: coll tag = 0
+2016-10-15T07:34:03.951Z - normal: Simulator: on collision exit
+2016-10-15T07:34:04.115Z - normal: Simulator: on collision enter
+2016-10-15T07:34:04.116Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:04.116Z - normal: Simulator: on collision exit
+2016-10-15T07:34:04.952Z - normal: Simulator: on collision enter
+2016-10-15T07:34:04.953Z - normal: Simulator: coll tag = 0
+2016-10-15T07:34:05.236Z - normal: Simulator: 431.66372856593836
+2016-10-15T07:34:05.248Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T07:34:05.472Z - normal: Simulator: on collision exit
+2016-10-15T07:34:06.718Z - normal: Simulator: on collision enter
+2016-10-15T07:34:06.718Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:06.719Z - normal: Simulator: on collision exit
+2016-10-15T07:34:06.748Z - normal: Simulator: on collision enter
+2016-10-15T07:34:06.749Z - normal: Simulator: coll tag = 0
+2016-10-15T07:34:06.749Z - normal: Simulator: on collision enter
+2016-10-15T07:34:06.750Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:06.750Z - normal: Simulator: on collision exit
+2016-10-15T07:34:06.781Z - normal: Simulator: on collision exit
+2016-10-15T07:34:06.829Z - normal: Simulator: on collision enter
+2016-10-15T07:34:06.830Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:06.830Z - normal: Simulator: on collision enter
+2016-10-15T07:34:06.830Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:06.830Z - normal: Simulator: on collision exit
+2016-10-15T07:34:06.831Z - normal: Simulator: on collision exit
+2016-10-15T07:34:06.845Z - normal: Simulator: on collision enter
+2016-10-15T07:34:06.846Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:06.846Z - normal: Simulator: on collision exit
+2016-10-15T07:34:06.914Z - normal: Simulator: on collision enter
+2016-10-15T07:34:06.915Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:06.915Z - normal: Simulator: on collision exit
+2016-10-15T07:34:06.934Z - normal: Simulator: on collision enter
+2016-10-15T07:34:06.934Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:06.934Z - normal: Simulator: on collision exit
+2016-10-15T07:34:07.685Z - normal: Simulator: 281.3574381690809
+2016-10-15T07:34:07.699Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:34:07.784Z - normal: Simulator: on collision enter
+2016-10-15T07:34:07.785Z - normal: Simulator: coll tag = 0
+2016-10-15T07:34:08.120Z - normal: Simulator: on collision exit
+2016-10-15T07:34:09.352Z - normal: Simulator: on collision enter
+2016-10-15T07:34:09.353Z - normal: Simulator: coll tag = 0
+2016-10-15T07:34:09.420Z - normal: Simulator: on collision exit
+2016-10-15T07:34:09.935Z - normal: Simulator: on collision enter
+2016-10-15T07:34:09.936Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:09.936Z - normal: Simulator: on collision exit
+2016-10-15T07:34:10.049Z - normal: Simulator: on collision enter
+2016-10-15T07:34:10.050Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:10.050Z - normal: Simulator: on collision exit
+2016-10-15T07:34:10.316Z - normal: Simulator: on collision enter
+2016-10-15T07:34:10.316Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:10.316Z - normal: Simulator: on collision exit
+2016-10-15T07:34:10.433Z - normal: Simulator: on collision enter
+2016-10-15T07:34:10.433Z - normal: Simulator: coll tag = 0
+2016-10-15T07:34:10.468Z - normal: Simulator: on collision enter
+2016-10-15T07:34:10.469Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:10.469Z - normal: Simulator: on collision exit
+2016-10-15T07:34:10.563Z - normal: Simulator: on collision exit
+2016-10-15T07:34:10.678Z - normal: Simulator: on collision enter
+2016-10-15T07:34:10.678Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:10.679Z - normal: Simulator: on collision exit
+2016-10-15T07:34:10.777Z - normal: Simulator: on collision enter
+2016-10-15T07:34:10.777Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:10.777Z - normal: Simulator: on collision exit
+2016-10-15T07:34:10.930Z - normal: Simulator: on collision enter
+2016-10-15T07:34:10.930Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:10.930Z - normal: Simulator: on collision exit
+2016-10-15T07:34:11.110Z - normal: Simulator: on collision enter
+2016-10-15T07:34:11.111Z - normal: Simulator: coll tag = 1
+2016-10-15T07:34:11.111Z - normal: Simulator: on collision exit
+2016-10-15T07:34:51.042Z - normal: Compiled successfully
+2016-10-15T07:38:33.693Z - normal: Compiled successfully
+2016-10-15T07:38:40.539Z - normal: Compiled successfully
+2016-10-15T07:39:00.807Z - normal: Compiled successfully
+2016-10-15T07:44:23.316Z - normal: Compiled successfully
+2016-10-15T07:50:20.920Z - normal: Compiled successfully
+2016-10-15T07:50:21.240Z - error: ReferenceError: uiLayer is not defined
+    at Object.require.panda-control: "uiLayer: uiLayer," (assets/src/role/panda-control.js:21:8)
+    at s (../../../../../../Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../../Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///Users/mai/mkx-panda/panda-run/library/bundle.project.js?017:1:451
+2016-10-15T07:50:21.434Z - warn: Can not find script "d51004b8-9ba4-4e00-9e05-13a8fe59a069"
+2016-10-15T07:50:21.438Z - warn: Can not find script "facf0d7c-8ace-4444-a164-1566bf7d6abb"
+2016-10-15T07:50:23.010Z - normal: Compiled successfully
+2016-10-15T07:50:23.257Z - error: ReferenceError: uiLayer is not defined
+    at Object.require.panda-control: "uiLayer: uiLayer," (assets/src/role/panda-control.js:21:8)
+    at s (../../../../../../Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../../Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///Users/mai/mkx-panda/panda-run/library/bundle.project.js?018:1:451
+2016-10-15T07:50:23.375Z - warn: Can not find script "d51004b8-9ba4-4e00-9e05-13a8fe59a069"
+2016-10-15T07:50:23.379Z - warn: Can not find script "facf0d7c-8ace-4444-a164-1566bf7d6abb"
+2016-10-15T07:51:03.981Z - normal: Compiled successfully
+2016-10-15T07:51:04.235Z - error: ReferenceError: uiLayer is not defined
+    at Object.require.panda-control: "require(uiLayer)" (assets/src/role/panda-control.js:1)
+    at s (../../../../../../Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../../Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///Users/mai/mkx-panda/panda-run/library/bundle.project.js?019:1:451
+2016-10-15T07:51:04.362Z - warn: Can not find script "d51004b8-9ba4-4e00-9e05-13a8fe59a069"
+2016-10-15T07:51:04.365Z - warn: Can not find script "facf0d7c-8ace-4444-a164-1566bf7d6abb"
+2016-10-15T07:53:13.258Z - normal: Compiled successfully
+2016-10-15T07:53:13.541Z - error: AssertionError: missing path
+    at Module.require (module.js:464:3)
+    at require (internal/module.js:20:19)
+    at s (../../../../../../Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///Users/mai/mkx-panda/panda-run/library/bundle.project.js?020:1:313
+    at Object.require.panda-control (assets/src/role/panda-control.js:1)
+    at s (../../../../../../Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at e (../../../../../../Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/browser-pack/_prelude.js:1)
+    at file:///Users/mai/mkx-panda/panda-run/library/bundle.project.js?020:1:451
+2016-10-15T07:53:13.692Z - warn: Can not find script "d51004b8-9ba4-4e00-9e05-13a8fe59a069"
+2016-10-15T07:53:13.697Z - warn: Can not find script "facf0d7c-8ace-4444-a164-1566bf7d6abb"
+2016-10-15T07:53:43.406Z - normal: Compiled successfully
+2016-10-15T07:54:05.182Z - normal: Compiled successfully
+2016-10-15T07:54:06.684Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 949.00
+2016-10-15T07:54:06.685Z - normal: Simulator: FRAME SCALE = 1.00
+2016-10-15T07:54:06.800Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-10-15T07:54:06.846Z - normal: Simulator: 
+2016-10-15T07:54:06.846Z - normal: Simulator: {
+2016-10-15T07:54:06.847Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-10-15T07:54:06.847Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-10-15T07:54:06.847Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-10-15T07:54:06.848Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.73
+2016-10-15T07:54:06.848Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-10-15T07:54:06.849Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-10-15T07:54:06.849Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-10-15T07:54:06.849Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-10-15T07:54:06.850Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-10-15T07:54:06.850Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-10-15T07:54:06.851Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-10-15T07:54:06.851Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2016-10-15T07:54:06.851Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-10-15T07:54:06.852Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-10-15T07:54:06.852Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-10-15T07:54:06.853Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-10-15T07:54:06.853Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-10-15T07:54:06.853Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-10-15T07:54:06.854Z - normal: Simulator: }
+2016-10-15T07:54:06.854Z - normal: Simulator: Project Config:
+2016-10-15T07:54:06.857Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-10-15T07:54:06.858Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-10-15T07:54:06.858Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-10-15T07:54:06.859Z - normal: Simulator:     frame size: 960 x 640
+2016-10-15T07:54:06.860Z - normal: Simulator:     frame scale: 1.00
+2016-10-15T07:54:06.860Z - normal: Simulator:     show console: NO
+2016-10-15T07:54:06.860Z - normal: Simulator:     write debug log: NO ()
+2016-10-15T07:54:06.861Z - normal: Simulator:     listen: 
+2016-10-15T07:54:06.862Z - normal: Simulator:     debugger: none
+2016-10-15T07:54:06.863Z - normal: Simulator:     add searching path:
+2016-10-15T07:54:06.863Z - normal: Simulator: 
+2016-10-15T07:54:06.863Z - normal: Simulator: 
+2016-10-15T07:54:06.864Z - normal: Simulator: 
+2016-10-15T07:54:06.864Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:54:06.865Z - normal: Simulator: LOAD Js FILE: main.js
+2016-10-15T07:54:06.865Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:54:07.210Z - normal: Simulator: Cocos2d-JS v3.9
+2016-10-15T07:54:07.247Z - normal: Simulator: iShow!
+2016-10-15T07:54:07.609Z - normal: Simulator: 119.46060007888057
+2016-10-15T07:54:07.610Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:54:08.039Z - normal: Simulator: on collision enter
+2016-10-15T07:54:08.040Z - normal: Simulator: coll tag = 0
+2016-10-15T07:54:09.573Z - normal: Simulator: on collision exit
+2016-10-15T07:54:10.640Z - normal: Simulator: on collision enter
+2016-10-15T07:54:10.641Z - normal: Simulator: coll tag = 0
+2016-10-15T07:54:11.906Z - normal: Simulator: on collision exit
+2016-10-15T07:54:12.506Z - normal: Simulator: on collision enter
+2016-10-15T07:54:12.507Z - normal: Simulator: coll tag = 0
+2016-10-15T07:54:15.707Z - normal: Simulator: on collision enter
+2016-10-15T07:54:15.707Z - normal: Simulator: coll tag = 1
+2016-10-15T07:54:15.711Z - error: Simulator: TypeError: uiLayer.addGold is not a function
+    at a: "uiLayer.addGold()" (assets/src/role/panda-control.js:90:8)
+2016-10-15T07:54:15.727Z - normal: Simulator: on collision exit
+2016-10-15T07:54:15.792Z - normal: Simulator: on collision enter
+2016-10-15T07:54:15.793Z - normal: Simulator: coll tag = 1
+2016-10-15T07:54:15.794Z - error: Simulator: TypeError: uiLayer.addGold is not a function
+    at a: "uiLayer.addGold()" (assets/src/role/panda-control.js:90:8)
+2016-10-15T07:54:15.824Z - normal: Simulator: on collision exit
+2016-10-15T07:54:59.445Z - normal: Compiled successfully
+2016-10-15T07:56:04.831Z - normal: Compiled successfully
+2016-10-15T07:56:05.840Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 949.00
+2016-10-15T07:56:05.841Z - normal: Simulator: FRAME SCALE = 1.00
+2016-10-15T07:56:06.075Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-10-15T07:56:06.088Z - normal: Simulator: 
+2016-10-15T07:56:06.089Z - normal: Simulator: {
+2016-10-15T07:56:06.089Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-10-15T07:56:06.090Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-10-15T07:56:06.091Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-10-15T07:56:06.091Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.73
+2016-10-15T07:56:06.092Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-10-15T07:56:06.092Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-10-15T07:56:06.093Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-10-15T07:56:06.093Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-10-15T07:56:06.094Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-10-15T07:56:06.095Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-10-15T07:56:06.095Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-10-15T07:56:06.096Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2016-10-15T07:56:06.096Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-10-15T07:56:06.097Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-10-15T07:56:06.097Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-10-15T07:56:06.097Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-10-15T07:56:06.098Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-10-15T07:56:06.099Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-10-15T07:56:06.099Z - normal: Simulator: }
+2016-10-15T07:56:06.109Z - normal: Simulator: Project Config:
+2016-10-15T07:56:06.109Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-10-15T07:56:06.110Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-10-15T07:56:06.110Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-10-15T07:56:06.110Z - normal: Simulator:     frame size: 960 x 640
+2016-10-15T07:56:06.111Z - normal: Simulator:     frame scale: 1.00
+2016-10-15T07:56:06.111Z - normal: Simulator:     show console: NO
+2016-10-15T07:56:06.112Z - normal: Simulator:     write debug log: NO ()
+2016-10-15T07:56:06.112Z - normal: Simulator:     listen: 
+2016-10-15T07:56:06.112Z - normal: Simulator:     debugger: none
+2016-10-15T07:56:06.113Z - normal: Simulator:     add searching path:
+2016-10-15T07:56:06.113Z - normal: Simulator: 
+2016-10-15T07:56:06.113Z - normal: Simulator: 
+2016-10-15T07:56:06.114Z - normal: Simulator: 
+2016-10-15T07:56:06.114Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:56:06.114Z - normal: Simulator: LOAD Js FILE: main.js
+2016-10-15T07:56:06.115Z - normal: Simulator: ------------------------------------------------
+2016-10-15T07:56:06.385Z - normal: Simulator: Cocos2d-JS v3.9
+2016-10-15T07:56:06.439Z - normal: Simulator: iShow!
+2016-10-15T07:56:06.686Z - normal: Simulator: 472.05502310828314
+2016-10-15T07:56:06.711Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T07:56:07.161Z - normal: Simulator: on collision enter
+2016-10-15T07:56:07.161Z - normal: Simulator: coll tag = 0
+2016-10-15T07:56:07.838Z - normal: Simulator: on collision exit
+2016-10-15T07:56:08.871Z - normal: Simulator: on collision enter
+2016-10-15T07:56:08.871Z - normal: Simulator: coll tag = 0
+2016-10-15T07:56:11.653Z - normal: Simulator: on collision exit
+2016-10-15T07:56:12.652Z - normal: Simulator: on collision enter
+2016-10-15T07:56:12.653Z - normal: Simulator: coll tag = 1
+2016-10-15T07:56:12.666Z - error: Simulator: TypeError: uiLayer.addGold is not a function
+    at a: "uiLayer.addGold()" (assets/src/role/panda-control.js:90:8)
+2016-10-15T07:56:12.683Z - normal: Simulator: on collision exit
+2016-10-15T07:56:12.716Z - normal: Simulator: on collision enter
+2016-10-15T07:56:12.717Z - normal: Simulator: coll tag = 1
+2016-10-15T07:56:12.718Z - error: Simulator: TypeError: uiLayer.addGold is not a function
+    at a: "uiLayer.addGold()" (assets/src/role/panda-control.js:90:8)
+2016-10-15T07:56:12.737Z - normal: Simulator: on collision exit
+2016-10-15T07:56:12.759Z - normal: Simulator: on collision enter
+2016-10-15T07:56:12.761Z - normal: Simulator: coll tag = 0
+2016-10-15T07:56:12.807Z - normal: Simulator: on collision enter
+2016-10-15T07:56:12.808Z - normal: Simulator: coll tag = 1
+2016-10-15T07:56:12.809Z - error: Simulator: TypeError: uiLayer.addGold is not a function
+    at a: "uiLayer.addGold()" (assets/src/role/panda-control.js:90:8)
+2016-10-15T07:56:12.822Z - normal: Simulator: on collision exit
+2016-10-15T07:57:33.766Z - normal: Compiled successfully
+2016-10-15T08:00:43.437Z - normal: Compiled successfully
+2016-10-15T08:01:11.702Z - normal: Compiled successfully
+2016-10-15T08:01:24.890Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 949.00
+2016-10-15T08:01:24.891Z - normal: Simulator: FRAME SCALE = 1.00
+2016-10-15T08:01:25.072Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-10-15T08:01:25.138Z - normal: Simulator: 
+2016-10-15T08:01:25.138Z - normal: Simulator: {
+2016-10-15T08:01:25.139Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-10-15T08:01:25.139Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-10-15T08:01:25.139Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-10-15T08:01:25.142Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.73
+2016-10-15T08:01:25.143Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-10-15T08:01:25.143Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-10-15T08:01:25.144Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-10-15T08:01:25.145Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-10-15T08:01:25.145Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-10-15T08:01:25.146Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-10-15T08:01:25.146Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-10-15T08:01:25.147Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2016-10-15T08:01:25.147Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-10-15T08:01:25.148Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-10-15T08:01:25.148Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-10-15T08:01:25.148Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-10-15T08:01:25.149Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-10-15T08:01:25.149Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-10-15T08:01:25.150Z - normal: Simulator: }
+2016-10-15T08:01:25.190Z - normal: Simulator: Project Config:
+2016-10-15T08:01:25.191Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-10-15T08:01:25.201Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-10-15T08:01:25.202Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-10-15T08:01:25.202Z - normal: Simulator:     frame size: 960 x 640
+2016-10-15T08:01:25.203Z - normal: Simulator:     frame scale: 1.00
+2016-10-15T08:01:25.203Z - normal: Simulator:     show console: NO
+2016-10-15T08:01:25.203Z - normal: Simulator:     write debug log: NO ()
+2016-10-15T08:01:25.204Z - normal: Simulator:     listen: 
+2016-10-15T08:01:25.204Z - normal: Simulator:     debugger: none
+2016-10-15T08:01:25.205Z - normal: Simulator:     add searching path:
+2016-10-15T08:01:25.205Z - normal: Simulator: 
+2016-10-15T08:01:25.205Z - normal: Simulator: 
+2016-10-15T08:01:25.206Z - normal: Simulator: 
+2016-10-15T08:01:25.206Z - normal: Simulator: ------------------------------------------------
+2016-10-15T08:01:25.206Z - normal: Simulator: LOAD Js FILE: main.js
+2016-10-15T08:01:25.207Z - normal: Simulator: ------------------------------------------------
+2016-10-15T08:01:25.494Z - normal: Simulator: Cocos2d-JS v3.9
+2016-10-15T08:01:25.607Z - normal: Simulator: iShow!
+2016-10-15T08:01:25.779Z - error: Simulator: ReferenceError: uiLayer is not defined
+    at a: "this.uiLayerComonent = this.uiLayer.getComponent(uiLayer)" (assets/src/role/panda-control.js:37:8)
+2016-10-15T08:02:45.744Z - normal: Compiled successfully
+2016-10-15T08:02:47.427Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 949.00
+2016-10-15T08:02:47.434Z - normal: Simulator: FRAME SCALE = 1.00
+2016-10-15T08:02:47.498Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-10-15T08:02:47.498Z - normal: Simulator: 
+2016-10-15T08:02:47.499Z - normal: Simulator: {
+2016-10-15T08:02:47.499Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-10-15T08:02:47.500Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-10-15T08:02:47.500Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-10-15T08:02:47.501Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.73
+2016-10-15T08:02:47.502Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-10-15T08:02:47.503Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-10-15T08:02:47.503Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-10-15T08:02:47.504Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-10-15T08:02:47.504Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-10-15T08:02:47.505Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-10-15T08:02:47.505Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-10-15T08:02:47.505Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2016-10-15T08:02:47.506Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-10-15T08:02:47.506Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-10-15T08:02:47.507Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-10-15T08:02:47.507Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-10-15T08:02:47.507Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-10-15T08:02:47.508Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-10-15T08:02:47.508Z - normal: Simulator: }
+2016-10-15T08:02:47.597Z - normal: Simulator: Project Config:
+2016-10-15T08:02:47.598Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-10-15T08:02:47.599Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-10-15T08:02:47.600Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-10-15T08:02:47.601Z - normal: Simulator:     frame size: 960 x 640
+2016-10-15T08:02:47.601Z - normal: Simulator:     frame scale: 1.00
+2016-10-15T08:02:47.602Z - normal: Simulator:     show console: NO
+2016-10-15T08:02:47.602Z - normal: Simulator:     write debug log: NO ()
+2016-10-15T08:02:47.602Z - normal: Simulator:     listen: 
+2016-10-15T08:02:47.603Z - normal: Simulator:     debugger: none
+2016-10-15T08:02:47.603Z - normal: Simulator:     add searching path:
+2016-10-15T08:02:47.603Z - normal: Simulator: 
+2016-10-15T08:02:47.604Z - normal: Simulator: 
+2016-10-15T08:02:47.604Z - normal: Simulator: 
+2016-10-15T08:02:47.605Z - normal: Simulator: ------------------------------------------------
+2016-10-15T08:02:47.606Z - normal: Simulator: LOAD Js FILE: main.js
+2016-10-15T08:02:47.606Z - normal: Simulator: ------------------------------------------------
+2016-10-15T08:02:47.794Z - normal: Simulator: Cocos2d-JS v3.9
+2016-10-15T08:02:47.886Z - normal: Simulator: iShow!
+2016-10-15T08:02:48.057Z - normal: Simulator: 460.4454394952685
+2016-10-15T08:02:48.058Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T08:02:48.542Z - normal: Simulator: on collision enter
+2016-10-15T08:02:48.543Z - normal: Simulator: coll tag = 0
+2016-10-15T08:02:50.192Z - normal: Simulator: on collision exit
+2016-10-15T08:02:51.225Z - normal: Simulator: on collision enter
+2016-10-15T08:02:51.225Z - normal: Simulator: coll tag = 0
+2016-10-15T08:02:51.342Z - normal: Simulator: on collision exit
+2016-10-15T08:02:52.444Z - normal: Simulator: on collision enter
+2016-10-15T08:02:52.445Z - normal: Simulator: coll tag = 0
+2016-10-15T08:03:00.938Z - normal: Simulator: on collision exit
+2016-10-15T08:03:01.925Z - normal: Simulator: on collision enter
+2016-10-15T08:03:01.926Z - normal: Simulator: coll tag = 0
+2016-10-15T08:03:02.708Z - normal: Simulator: 328.0363963527175
+2016-10-15T08:03:02.715Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:03:03.925Z - normal: Simulator: on collision exit
+2016-10-15T08:03:05.608Z - normal: Simulator: on collision enter
+2016-10-15T08:03:05.609Z - normal: Simulator: coll tag = 0
+2016-10-15T08:03:09.090Z - normal: Simulator: on collision enter
+2016-10-15T08:03:09.090Z - normal: Simulator: coll tag = 1
+2016-10-15T08:03:09.097Z - error: Simulator: ReferenceError: uiLayerComonent is not defined
+    at a: "uiLayerComonent.addGold()" (assets/src/role/panda-control.js:93:8)
+2016-10-15T08:03:09.125Z - normal: Simulator: on collision exit
+2016-10-15T08:03:44.873Z - normal: Compiled successfully
+2016-10-15T08:03:48.022Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 949.00
+2016-10-15T08:03:48.023Z - normal: Simulator: FRAME SCALE = 1.00
+2016-10-15T08:03:48.240Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-10-15T08:03:48.314Z - normal: Simulator: 
+2016-10-15T08:03:48.315Z - normal: Simulator: {
+2016-10-15T08:03:48.316Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-10-15T08:03:48.317Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-10-15T08:03:48.317Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-10-15T08:03:48.318Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.73
+2016-10-15T08:03:48.319Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-10-15T08:03:48.319Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-10-15T08:03:48.320Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-10-15T08:03:48.321Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-10-15T08:03:48.321Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-10-15T08:03:48.322Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-10-15T08:03:48.322Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-10-15T08:03:48.323Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2016-10-15T08:03:48.323Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-10-15T08:03:48.323Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-10-15T08:03:48.324Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-10-15T08:03:48.325Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-10-15T08:03:48.325Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-10-15T08:03:48.325Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-10-15T08:03:48.326Z - normal: Simulator: }
+2016-10-15T08:03:48.359Z - normal: Simulator: Project Config:
+2016-10-15T08:03:48.360Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-10-15T08:03:48.360Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-10-15T08:03:48.360Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-10-15T08:03:48.361Z - normal: Simulator:     frame size: 960 x 640
+2016-10-15T08:03:48.361Z - normal: Simulator:     frame scale: 1.00
+2016-10-15T08:03:48.362Z - normal: Simulator:     show console: NO
+2016-10-15T08:03:48.362Z - normal: Simulator:     write debug log: NO ()
+2016-10-15T08:03:48.362Z - normal: Simulator:     listen: 
+2016-10-15T08:03:48.363Z - normal: Simulator:     debugger: none
+2016-10-15T08:03:48.363Z - normal: Simulator:     add searching path:
+2016-10-15T08:03:48.363Z - normal: Simulator: 
+2016-10-15T08:03:48.364Z - normal: Simulator: 
+2016-10-15T08:03:48.364Z - normal: Simulator: 
+2016-10-15T08:03:48.364Z - normal: Simulator: ------------------------------------------------
+2016-10-15T08:03:48.365Z - normal: Simulator: LOAD Js FILE: main.js
+2016-10-15T08:03:48.365Z - normal: Simulator: ------------------------------------------------
+2016-10-15T08:03:48.613Z - normal: Simulator: Cocos2d-JS v3.9
+2016-10-15T08:03:48.698Z - normal: Simulator: iShow!
+2016-10-15T08:03:48.878Z - normal: Simulator: 216.8356155767612
+2016-10-15T08:03:48.878Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T08:03:49.377Z - normal: Simulator: on collision enter
+2016-10-15T08:03:49.377Z - normal: Simulator: coll tag = 0
+2016-10-15T08:03:50.467Z - normal: Simulator: on collision exit
+2016-10-15T08:03:51.532Z - normal: Simulator: on collision enter
+2016-10-15T08:03:51.532Z - normal: Simulator: coll tag = 0
+2016-10-15T08:03:51.792Z - normal: Simulator: on collision exit
+2016-10-15T08:03:52.959Z - normal: Simulator: on collision enter
+2016-10-15T08:03:52.959Z - normal: Simulator: coll tag = 0
+2016-10-15T08:03:54.525Z - normal: Simulator: 194.46675735366927
+2016-10-15T08:03:54.533Z - normal: Simulator: 产出一个平台,平台数= 4
+2016-10-15T08:03:58.091Z - normal: Simulator: on collision exit
+2016-10-15T08:03:59.140Z - normal: Simulator: on collision enter
+2016-10-15T08:03:59.141Z - normal: Simulator: coll tag = 0
+2016-10-15T08:04:02.667Z - normal: Simulator: on collision enter
+2016-10-15T08:04:02.668Z - normal: Simulator: coll tag = 1
+2016-10-15T08:04:02.672Z - error: Simulator: TypeError: this.gold_label.setString is not a function
+    at a: "this.gold_label.setString(this.goldNum)" (assets/src/layer/uiLayer.js:16:8)
+2016-10-15T08:04:02.680Z - normal: Simulator: on collision exit
+2016-10-15T08:04:02.806Z - normal: Simulator: on collision enter
+2016-10-15T08:04:02.806Z - normal: Simulator: coll tag = 1
+2016-10-15T08:04:02.807Z - error: Simulator: TypeError: this.gold_label.setString is not a function
+    at a: "this.gold_label.setString(this.goldNum)" (assets/src/layer/uiLayer.js:16:8)
+2016-10-15T08:04:02.829Z - normal: Simulator: on collision exit
+2016-10-15T08:04:03.113Z - normal: Simulator: on collision exit
+2016-10-15T08:04:03.113Z - normal: Simulator: on collision enter
+2016-10-15T08:04:03.113Z - normal: Simulator: coll tag = 1
+2016-10-15T08:04:03.115Z - error: Simulator: TypeError: this.gold_label.setString is not a function
+    at a: "this.gold_label.setString(this.goldNum)" (assets/src/layer/uiLayer.js:16:8)
+2016-10-15T08:04:03.147Z - normal: Simulator: on collision exit
+2016-10-15T08:04:03.223Z - normal: Simulator: on collision enter
+2016-10-15T08:04:03.223Z - normal: Simulator: coll tag = 1
+2016-10-15T08:04:03.224Z - error: Simulator: TypeError: this.gold_label.setString is not a function
+    at a: "this.gold_label.setString(this.goldNum)" (assets/src/layer/uiLayer.js:16:8)
+2016-10-15T08:04:03.247Z - normal: Simulator: on collision exit
+2016-10-15T08:04:04.124Z - normal: Simulator: on collision enter
+2016-10-15T08:04:04.124Z - normal: Simulator: coll tag = 0
+2016-10-15T08:04:04.474Z - normal: Simulator: 525.915185145705
+2016-10-15T08:04:04.475Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:04:09.960Z - normal: Simulator: on collision exit
+2016-10-15T08:04:11.248Z - normal: Simulator: on collision enter
+2016-10-15T08:04:11.248Z - normal: Simulator: coll tag = 0
+2016-10-15T08:04:13.990Z - normal: Simulator: 330.03253720108063
+2016-10-15T08:04:13.990Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:08:32.477Z - normal: Compiled successfully
+2016-10-15T08:08:33.263Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 949.00
+2016-10-15T08:08:33.264Z - normal: Simulator: FRAME SCALE = 1.00
+2016-10-15T08:08:33.265Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-10-15T08:08:33.367Z - normal: Simulator: 
+2016-10-15T08:08:33.369Z - normal: Simulator: {
+2016-10-15T08:08:33.370Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-10-15T08:08:33.370Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-10-15T08:08:33.370Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-10-15T08:08:33.371Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.73
+2016-10-15T08:08:33.371Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-10-15T08:08:33.372Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-10-15T08:08:33.373Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-10-15T08:08:33.373Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-10-15T08:08:33.373Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-10-15T08:08:33.374Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-10-15T08:08:33.374Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-10-15T08:08:33.374Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2016-10-15T08:08:33.375Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-10-15T08:08:33.375Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-10-15T08:08:33.375Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-10-15T08:08:33.376Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-10-15T08:08:33.376Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-10-15T08:08:33.376Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-10-15T08:08:33.377Z - normal: Simulator: }
+2016-10-15T08:08:33.387Z - normal: Simulator: Project Config:
+2016-10-15T08:08:33.388Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-10-15T08:08:33.388Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-10-15T08:08:33.389Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-10-15T08:08:33.390Z - normal: Simulator:     frame size: 960 x 640
+2016-10-15T08:08:33.390Z - normal: Simulator:     frame scale: 1.00
+2016-10-15T08:08:33.390Z - normal: Simulator:     show console: NO
+2016-10-15T08:08:33.391Z - normal: Simulator:     write debug log: NO ()
+2016-10-15T08:08:33.391Z - normal: Simulator:     listen: 
+2016-10-15T08:08:33.391Z - normal: Simulator:     debugger: none
+2016-10-15T08:08:33.392Z - normal: Simulator:     add searching path:
+2016-10-15T08:08:33.392Z - normal: Simulator: 
+2016-10-15T08:08:33.392Z - normal: Simulator: 
+2016-10-15T08:08:33.393Z - normal: Simulator: 
+2016-10-15T08:08:33.393Z - normal: Simulator: ------------------------------------------------
+2016-10-15T08:08:33.393Z - normal: Simulator: LOAD Js FILE: main.js
+2016-10-15T08:08:33.394Z - normal: Simulator: ------------------------------------------------
+2016-10-15T08:08:33.632Z - normal: Simulator: Cocos2d-JS v3.9
+2016-10-15T08:08:33.736Z - normal: Simulator: iShow!
+2016-10-15T08:08:33.950Z - normal: Simulator: 51.75549694007933
+2016-10-15T08:08:33.951Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T08:08:34.401Z - normal: Simulator: on collision enter
+2016-10-15T08:08:34.402Z - normal: Simulator: coll tag = 0
+2016-10-15T08:08:35.810Z - normal: Simulator: on collision exit
+2016-10-15T08:08:36.878Z - normal: Simulator: on collision enter
+2016-10-15T08:08:36.879Z - normal: Simulator: coll tag = 0
+2016-10-15T08:08:37.748Z - normal: Simulator: on collision exit
+2016-10-15T08:08:38.468Z - normal: Simulator: on collision enter
+2016-10-15T08:08:38.469Z - normal: Simulator: coll tag = 0
+2016-10-15T08:08:38.797Z - normal: Simulator: on collision exit
+2016-10-15T08:08:39.803Z - normal: Simulator: on collision enter
+2016-10-15T08:08:39.803Z - normal: Simulator: coll tag = 0
+2016-10-15T08:08:39.960Z - normal: Simulator: on collision exit
+2016-10-15T08:08:40.946Z - normal: Simulator: on collision enter
+2016-10-15T08:08:40.946Z - normal: Simulator: coll tag = 0
+2016-10-15T08:08:41.061Z - normal: Simulator: on collision exit
+2016-10-15T08:08:42.063Z - normal: Simulator: on collision enter
+2016-10-15T08:08:42.064Z - normal: Simulator: coll tag = 0
+2016-10-15T08:08:42.180Z - normal: Simulator: on collision exit
+2016-10-15T08:08:43.212Z - normal: Simulator: on collision enter
+2016-10-15T08:08:43.212Z - normal: Simulator: coll tag = 0
+2016-10-15T08:08:43.277Z - normal: Simulator: on collision exit
+2016-10-15T08:08:44.282Z - normal: Simulator: on collision enter
+2016-10-15T08:08:44.282Z - normal: Simulator: coll tag = 0
+2016-10-15T08:08:44.412Z - normal: Simulator: on collision exit
+2016-10-15T08:08:45.428Z - normal: Simulator: on collision enter
+2016-10-15T08:08:45.428Z - normal: Simulator: coll tag = 0
+2016-10-15T08:08:45.463Z - normal: Simulator: on collision exit
+2016-10-15T08:08:46.464Z - normal: Simulator: on collision enter
+2016-10-15T08:08:46.465Z - normal: Simulator: coll tag = 0
+2016-10-15T08:08:46.490Z - normal: Simulator: on collision exit
+2016-10-15T08:08:47.514Z - normal: Simulator: on collision enter
+2016-10-15T08:08:47.515Z - normal: Simulator: coll tag = 0
+2016-10-15T08:08:47.515Z - normal: Simulator: on collision exit
+2016-10-15T08:08:48.511Z - normal: Simulator: on collision enter
+2016-10-15T08:08:48.511Z - normal: Simulator: coll tag = 0
+2016-10-15T08:08:48.560Z - normal: Simulator: 404.15642841717585
+2016-10-15T08:08:48.560Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:08:48.595Z - normal: Simulator: on collision exit
+2016-10-15T08:08:49.580Z - normal: Simulator: on collision enter
+2016-10-15T08:08:49.581Z - normal: Simulator: coll tag = 0
+2016-10-15T08:08:49.765Z - normal: Simulator: on collision exit
+2016-10-15T08:08:50.766Z - normal: Simulator: on collision enter
+2016-10-15T08:08:50.766Z - normal: Simulator: coll tag = 0
+2016-10-15T08:08:50.938Z - normal: Simulator: on collision exit
+2016-10-15T08:08:52.143Z - normal: Simulator: on collision enter
+2016-10-15T08:08:52.144Z - normal: Simulator: coll tag = 0
+2016-10-15T08:08:53.033Z - normal: Simulator: on collision enter
+2016-10-15T08:08:53.033Z - normal: Simulator: coll tag = 1
+2016-10-15T08:08:53.036Z - normal: Simulator: on collision exit
+2016-10-15T08:08:53.169Z - normal: Simulator: on collision enter
+2016-10-15T08:08:53.170Z - normal: Simulator: coll tag = 1
+2016-10-15T08:08:53.170Z - normal: Simulator: on collision exit
+2016-10-15T08:08:53.383Z - normal: Simulator: on collision exit
+2016-10-15T08:08:53.401Z - normal: Simulator: on collision enter
+2016-10-15T08:08:53.402Z - normal: Simulator: coll tag = 1
+2016-10-15T08:08:53.402Z - normal: Simulator: on collision enter
+2016-10-15T08:08:53.402Z - normal: Simulator: coll tag = 1
+2016-10-15T08:08:53.403Z - normal: Simulator: on collision exit
+2016-10-15T08:08:53.403Z - normal: Simulator: on collision exit
+2016-10-15T08:08:53.500Z - normal: Simulator: on collision enter
+2016-10-15T08:08:53.500Z - normal: Simulator: coll tag = 1
+2016-10-15T08:08:53.500Z - normal: Simulator: on collision exit
+2016-10-15T08:08:53.521Z - normal: Simulator: on collision enter
+2016-10-15T08:08:53.522Z - normal: Simulator: coll tag = 1
+2016-10-15T08:08:53.522Z - normal: Simulator: on collision exit
+2016-10-15T08:08:54.383Z - normal: Simulator: on collision enter
+2016-10-15T08:08:54.383Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:20.594Z - normal: Compiled successfully
+2016-10-15T08:09:21.942Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 949.00
+2016-10-15T08:09:21.942Z - normal: Simulator: FRAME SCALE = 1.00
+2016-10-15T08:09:21.944Z - normal: Simulator: GLFWError #65544 Happen, Failed to retrieve display name
+2016-10-15T08:09:21.947Z - normal: Simulator: 
+2016-10-15T08:09:21.948Z - normal: Simulator: {
+2016-10-15T08:09:21.948Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2016-10-15T08:09:21.949Z - normal: Simulator: 	cocos2d.x.version: cocos2d-x-3.10-lite
+2016-10-15T08:09:21.949Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2016-10-15T08:09:21.949Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.14.73
+2016-10-15T08:09:21.950Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2016-10-15T08:09:21.950Z - normal: Simulator: 	cocos2d.x.build_time: 16:53:18 Jul 27 2016
+2016-10-15T08:09:21.950Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2016-10-15T08:09:21.951Z - normal: Simulator: 	gl.max_texture_size: 16384
+2016-10-15T08:09:21.951Z - normal: Simulator: 	gl.supports_ETC1: false
+2016-10-15T08:09:21.952Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2016-10-15T08:09:21.952Z - normal: Simulator: 	gl.supports_PVRTC: false
+2016-10-15T08:09:21.953Z - normal: Simulator: 	gl.renderer: Intel HD Graphics 4000 OpenGL Engine
+2016-10-15T08:09:21.953Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2016-10-15T08:09:21.955Z - normal: Simulator: 	gl.max_texture_units: 16
+2016-10-15T08:09:21.955Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2016-10-15T08:09:21.956Z - normal: Simulator: 	gl.supports_NPOT: true
+2016-10-15T08:09:21.956Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2016-10-15T08:09:21.957Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2016-10-15T08:09:21.957Z - normal: Simulator: }
+2016-10-15T08:09:21.958Z - normal: Simulator: Project Config:
+2016-10-15T08:09:21.959Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2016-10-15T08:09:21.959Z - normal: Simulator:     writable path: $(PROJDIR)/
+2016-10-15T08:09:21.959Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2016-10-15T08:09:21.960Z - normal: Simulator:     frame size: 960 x 640
+2016-10-15T08:09:21.960Z - normal: Simulator:     frame scale: 1.00
+2016-10-15T08:09:21.960Z - normal: Simulator:     show console: NO
+2016-10-15T08:09:21.961Z - normal: Simulator:     write debug log: NO ()
+2016-10-15T08:09:21.961Z - normal: Simulator:     listen: 
+2016-10-15T08:09:21.961Z - normal: Simulator:     debugger: none
+2016-10-15T08:09:21.962Z - normal: Simulator:     add searching path:
+2016-10-15T08:09:21.962Z - normal: Simulator: 
+2016-10-15T08:09:21.963Z - normal: Simulator: 
+2016-10-15T08:09:21.963Z - normal: Simulator: 
+2016-10-15T08:09:21.964Z - normal: Simulator: ------------------------------------------------
+2016-10-15T08:09:21.964Z - normal: Simulator: LOAD Js FILE: main.js
+2016-10-15T08:09:21.965Z - normal: Simulator: ------------------------------------------------
+2016-10-15T08:09:22.110Z - normal: Simulator: Cocos2d-JS v3.9
+2016-10-15T08:09:22.146Z - normal: Simulator: iShow!
+2016-10-15T08:09:22.350Z - normal: Simulator: 240.78507964258216
+2016-10-15T08:09:22.399Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T08:09:22.880Z - normal: Simulator: on collision enter
+2016-10-15T08:09:22.881Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:23.498Z - normal: Simulator: on collision exit
+2016-10-15T08:09:24.531Z - normal: Simulator: on collision enter
+2016-10-15T08:09:24.532Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:25.271Z - normal: Simulator: on collision exit
+2016-10-15T08:09:26.394Z - normal: Simulator: on collision enter
+2016-10-15T08:09:26.394Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:32.964Z - normal: Simulator: on collision exit
+2016-10-15T08:09:33.977Z - normal: Simulator: on collision enter
+2016-10-15T08:09:33.977Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:34.076Z - normal: Simulator: on collision exit
+2016-10-15T08:09:35.081Z - normal: Simulator: on collision enter
+2016-10-15T08:09:35.081Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:35.212Z - normal: Simulator: on collision exit
+2016-10-15T08:09:36.212Z - normal: Simulator: on collision enter
+2016-10-15T08:09:36.212Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:36.276Z - normal: Simulator: on collision exit
+2016-10-15T08:09:37.014Z - normal: Simulator: 375.74282308971596
+2016-10-15T08:09:37.020Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:09:37.280Z - normal: Simulator: on collision enter
+2016-10-15T08:09:37.281Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:37.329Z - normal: Simulator: on collision exit
+2016-10-15T08:09:38.331Z - normal: Simulator: on collision enter
+2016-10-15T08:09:38.332Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:38.497Z - normal: Simulator: on collision exit
+2016-10-15T08:09:39.782Z - normal: Simulator: on collision enter
+2016-10-15T08:09:39.783Z - normal: Simulator: coll tag = 1
+2016-10-15T08:09:39.784Z - normal: Simulator: on collision exit
+2016-10-15T08:09:39.819Z - normal: Simulator: on collision enter
+2016-10-15T08:09:39.819Z - normal: Simulator: coll tag = 1
+2016-10-15T08:09:39.820Z - normal: Simulator: on collision exit
+2016-10-15T08:09:39.859Z - normal: Simulator: on collision enter
+2016-10-15T08:09:39.860Z - normal: Simulator: coll tag = 1
+2016-10-15T08:09:39.860Z - normal: Simulator: on collision enter
+2016-10-15T08:09:39.860Z - normal: Simulator: coll tag = 1
+2016-10-15T08:09:39.861Z - normal: Simulator: on collision exit
+2016-10-15T08:09:39.861Z - normal: Simulator: on collision exit
+2016-10-15T08:09:39.985Z - normal: Simulator: on collision enter
+2016-10-15T08:09:39.985Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:40.119Z - normal: Simulator: on collision exit
+2016-10-15T08:09:40.368Z - normal: Simulator: on collision enter
+2016-10-15T08:09:40.368Z - normal: Simulator: coll tag = 1
+2016-10-15T08:09:40.368Z - normal: Simulator: on collision exit
+2016-10-15T08:09:40.387Z - normal: Simulator: on collision enter
+2016-10-15T08:09:40.387Z - normal: Simulator: coll tag = 1
+2016-10-15T08:09:40.388Z - normal: Simulator: on collision exit
+2016-10-15T08:09:40.532Z - normal: Simulator: on collision enter
+2016-10-15T08:09:40.532Z - normal: Simulator: coll tag = 1
+2016-10-15T08:09:40.533Z - normal: Simulator: on collision exit
+2016-10-15T08:09:40.949Z - normal: Simulator: on collision enter
+2016-10-15T08:09:40.949Z - normal: Simulator: coll tag = 1
+2016-10-15T08:09:40.950Z - normal: Simulator: on collision exit
+2016-10-15T08:09:41.115Z - normal: Simulator: on collision enter
+2016-10-15T08:09:41.115Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:41.266Z - normal: Simulator: on collision exit
+2016-10-15T08:09:42.282Z - normal: Simulator: on collision enter
+2016-10-15T08:09:42.282Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:42.616Z - normal: Simulator: 485.33644903707466
+2016-10-15T08:09:42.617Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T08:09:43.782Z - normal: Simulator: on collision exit
+2016-10-15T08:09:44.915Z - normal: Simulator: on collision enter
+2016-10-15T08:09:44.915Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:45.097Z - normal: Simulator: on collision exit
+2016-10-15T08:09:46.117Z - normal: Simulator: on collision enter
+2016-10-15T08:09:46.117Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:46.264Z - normal: Simulator: on collision exit
+2016-10-15T08:09:47.265Z - normal: Simulator: on collision enter
+2016-10-15T08:09:47.265Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:47.450Z - normal: Simulator: 38.119342070184445
+2016-10-15T08:09:47.451Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T08:09:48.831Z - normal: Simulator: on collision exit
+2016-10-15T08:09:49.731Z - normal: Simulator: on collision enter
+2016-10-15T08:09:49.731Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:49.965Z - normal: Simulator: on collision exit
+2016-10-15T08:09:50.985Z - normal: Simulator: on collision enter
+2016-10-15T08:09:50.985Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:51.082Z - normal: Simulator: on collision exit
+2016-10-15T08:09:52.098Z - normal: Simulator: on collision enter
+2016-10-15T08:09:52.099Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:52.181Z - normal: Simulator: on collision exit
+2016-10-15T08:09:53.180Z - normal: Simulator: on collision enter
+2016-10-15T08:09:53.181Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:53.298Z - normal: Simulator: on collision exit
+2016-10-15T08:09:54.298Z - normal: Simulator: on collision enter
+2016-10-15T08:09:54.299Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:54.398Z - normal: Simulator: on collision exit
+2016-10-15T08:09:55.166Z - normal: Simulator: 68.10079769558007
+2016-10-15T08:09:55.167Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:09:55.433Z - normal: Simulator: on collision enter
+2016-10-15T08:09:55.434Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:55.815Z - normal: Simulator: on collision exit
+2016-10-15T08:09:57.318Z - normal: Simulator: on collision enter
+2016-10-15T08:09:57.319Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:57.448Z - normal: Simulator: on collision exit
+2016-10-15T08:09:58.461Z - normal: Simulator: on collision enter
+2016-10-15T08:09:58.461Z - normal: Simulator: coll tag = 0
+2016-10-15T08:09:59.282Z - normal: Simulator: on collision exit
+2016-10-15T08:10:00.297Z - normal: Simulator: on collision enter
+2016-10-15T08:10:00.298Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:00.383Z - normal: Simulator: 416.88962677057674
+2016-10-15T08:10:00.404Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:10:00.448Z - normal: Simulator: on collision exit
+2016-10-15T08:10:01.449Z - normal: Simulator: on collision enter
+2016-10-15T08:10:01.449Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:01.514Z - normal: Simulator: on collision exit
+2016-10-15T08:10:02.215Z - normal: Simulator: on collision enter
+2016-10-15T08:10:02.215Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:02.216Z - normal: Simulator: on collision exit
+2016-10-15T08:10:02.414Z - normal: Simulator: on collision enter
+2016-10-15T08:10:02.414Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:02.415Z - normal: Simulator: on collision exit
+2016-10-15T08:10:02.600Z - normal: Simulator: on collision enter
+2016-10-15T08:10:02.600Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:02.600Z - normal: Simulator: on collision exit
+2016-10-15T08:10:02.664Z - normal: Simulator: on collision enter
+2016-10-15T08:10:02.664Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:02.799Z - normal: Simulator: on collision exit
+2016-10-15T08:10:02.914Z - normal: Simulator: on collision enter
+2016-10-15T08:10:02.914Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:02.915Z - normal: Simulator: on collision exit
+2016-10-15T08:10:03.414Z - normal: Simulator: on collision enter
+2016-10-15T08:10:03.414Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:03.415Z - normal: Simulator: on collision exit
+2016-10-15T08:10:03.547Z - normal: Simulator: on collision enter
+2016-10-15T08:10:03.548Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:03.548Z - normal: Simulator: on collision exit
+2016-10-15T08:10:03.731Z - normal: Simulator: on collision enter
+2016-10-15T08:10:03.732Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:03.732Z - normal: Simulator: on collision exit
+2016-10-15T08:10:03.775Z - normal: Simulator: 223.229178135768
+2016-10-15T08:10:03.775Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T08:10:04.098Z - normal: Simulator: on collision enter
+2016-10-15T08:10:04.098Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:04.099Z - normal: Simulator: on collision exit
+2016-10-15T08:10:04.197Z - normal: Simulator: on collision enter
+2016-10-15T08:10:04.197Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:04.198Z - normal: Simulator: on collision exit
+2016-10-15T08:10:04.364Z - normal: Simulator: on collision enter
+2016-10-15T08:10:04.365Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:04.481Z - normal: Simulator: on collision exit
+2016-10-15T08:10:05.014Z - normal: Simulator: on collision enter
+2016-10-15T08:10:05.014Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:05.015Z - normal: Simulator: on collision exit
+2016-10-15T08:10:05.631Z - normal: Simulator: 106.03602395795264
+2016-10-15T08:10:05.632Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T08:10:05.863Z - normal: Simulator: on collision enter
+2016-10-15T08:10:05.864Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:06.014Z - normal: Simulator: on collision exit
+2016-10-15T08:10:07.430Z - normal: Simulator: on collision enter
+2016-10-15T08:10:07.430Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:07.574Z - normal: Simulator: on collision exit
+2016-10-15T08:10:08.763Z - normal: Simulator: on collision enter
+2016-10-15T08:10:08.764Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:08.850Z - normal: Simulator: on collision exit
+2016-10-15T08:10:09.882Z - normal: Simulator: on collision enter
+2016-10-15T08:10:09.883Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:10.011Z - normal: Simulator: 240.05650484041934
+2016-10-15T08:10:10.011Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:10:10.831Z - normal: Simulator: on collision exit
+2016-10-15T08:10:11.547Z - normal: Simulator: on collision enter
+2016-10-15T08:10:11.547Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:12.214Z - normal: Simulator: on collision exit
+2016-10-15T08:10:12.898Z - normal: Simulator: 165.25975339977836
+2016-10-15T08:10:12.905Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T08:10:13.217Z - normal: Simulator: on collision enter
+2016-10-15T08:10:13.217Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:13.380Z - normal: Simulator: on collision exit
+2016-10-15T08:10:14.464Z - normal: Simulator: on collision enter
+2016-10-15T08:10:14.464Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:14.617Z - normal: Simulator: on collision exit
+2016-10-15T08:10:15.614Z - normal: Simulator: on collision enter
+2016-10-15T08:10:15.614Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:15.726Z - normal: Simulator: on collision enter
+2016-10-15T08:10:15.726Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:15.727Z - normal: Simulator: on collision exit
+2016-10-15T08:10:15.847Z - normal: Simulator: on collision enter
+2016-10-15T08:10:15.848Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:15.849Z - normal: Simulator: on collision exit
+2016-10-15T08:10:15.887Z - normal: Simulator: on collision exit
+2016-10-15T08:10:15.942Z - normal: Simulator: on collision enter
+2016-10-15T08:10:15.942Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:15.942Z - normal: Simulator: on collision exit
+2016-10-15T08:10:15.974Z - normal: Simulator: on collision enter
+2016-10-15T08:10:15.975Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:15.975Z - normal: Simulator: on collision exit
+2016-10-15T08:10:15.988Z - normal: Simulator: on collision enter
+2016-10-15T08:10:15.988Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:15.988Z - normal: Simulator: on collision exit
+2016-10-15T08:10:16.164Z - normal: Simulator: on collision enter
+2016-10-15T08:10:16.165Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:16.166Z - normal: Simulator: on collision exit
+2016-10-15T08:10:16.726Z - normal: Simulator: on collision enter
+2016-10-15T08:10:16.726Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:16.726Z - normal: Simulator: on collision exit
+2016-10-15T08:10:16.899Z - normal: Simulator: on collision enter
+2016-10-15T08:10:16.899Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:17.014Z - normal: Simulator: on collision exit
+2016-10-15T08:10:17.180Z - normal: Simulator: on collision enter
+2016-10-15T08:10:17.181Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:17.181Z - normal: Simulator: on collision exit
+2016-10-15T08:10:17.947Z - normal: Simulator: 457.29466981811083
+2016-10-15T08:10:17.948Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:10:18.023Z - normal: Simulator: on collision enter
+2016-10-15T08:10:18.023Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:18.506Z - normal: Simulator: on collision exit
+2016-10-15T08:10:19.830Z - normal: Simulator: on collision enter
+2016-10-15T08:10:19.830Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:20.588Z - normal: Simulator: 348.0292431472466
+2016-10-15T08:10:20.589Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T08:10:21.477Z - normal: Simulator: on collision exit
+2016-10-15T08:10:22.278Z - normal: Simulator: on collision enter
+2016-10-15T08:10:22.278Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:25.124Z - normal: Simulator: 156.31314065401367
+2016-10-15T08:10:25.142Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:10:25.937Z - normal: Simulator: on collision exit
+2016-10-15T08:10:26.497Z - normal: Simulator: on collision enter
+2016-10-15T08:10:26.498Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:26.499Z - normal: Simulator: on collision exit
+2016-10-15T08:10:26.522Z - normal: Simulator: 539.2234754595893
+2016-10-15T08:10:26.522Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T08:10:26.686Z - normal: Simulator: on collision enter
+2016-10-15T08:10:26.687Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:26.687Z - normal: Simulator: on collision exit
+2016-10-15T08:10:26.863Z - normal: Simulator: on collision enter
+2016-10-15T08:10:26.864Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:26.864Z - normal: Simulator: on collision exit
+2016-10-15T08:10:27.131Z - normal: Simulator: on collision enter
+2016-10-15T08:10:27.132Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:27.133Z - normal: Simulator: on collision exit
+2016-10-15T08:10:27.162Z - normal: Simulator: on collision enter
+2016-10-15T08:10:27.163Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:27.164Z - normal: Simulator: on collision exit
+2016-10-15T08:10:27.230Z - normal: Simulator: on collision enter
+2016-10-15T08:10:27.230Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:27.365Z - normal: Simulator: on collision exit
+2016-10-15T08:10:27.432Z - normal: Simulator: on collision enter
+2016-10-15T08:10:27.433Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:27.434Z - normal: Simulator: on collision exit
+2016-10-15T08:10:27.598Z - normal: Simulator: on collision enter
+2016-10-15T08:10:27.599Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:27.599Z - normal: Simulator: on collision exit
+2016-10-15T08:10:28.096Z - normal: Simulator: on collision enter
+2016-10-15T08:10:28.097Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:29.365Z - normal: Simulator: on collision enter
+2016-10-15T08:10:29.365Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:29.366Z - normal: Simulator: on collision exit
+2016-10-15T08:10:29.449Z - normal: Simulator: on collision enter
+2016-10-15T08:10:29.450Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:29.451Z - normal: Simulator: on collision exit
+2016-10-15T08:10:29.530Z - normal: Simulator: on collision enter
+2016-10-15T08:10:29.530Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:29.531Z - normal: Simulator: on collision exit
+2016-10-15T08:10:29.614Z - normal: Simulator: on collision enter
+2016-10-15T08:10:29.615Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:29.616Z - normal: Simulator: on collision exit
+2016-10-15T08:10:30.769Z - normal: Simulator: 401.31237948544964
+2016-10-15T08:10:30.770Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:10:31.741Z - normal: Simulator: on collision exit
+2016-10-15T08:10:32.464Z - normal: Simulator: on collision enter
+2016-10-15T08:10:32.464Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:34.813Z - normal: Simulator: 336.08364673396005
+2016-10-15T08:10:34.818Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:10:35.639Z - normal: Simulator: on collision exit
+2016-10-15T08:10:36.696Z - normal: Simulator: on collision enter
+2016-10-15T08:10:36.696Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:36.847Z - normal: Simulator: on collision exit
+2016-10-15T08:10:36.872Z - normal: Simulator: on collision enter
+2016-10-15T08:10:36.872Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:36.872Z - normal: Simulator: on collision enter
+2016-10-15T08:10:36.873Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:36.873Z - normal: Simulator: on collision exit
+2016-10-15T08:10:36.873Z - normal: Simulator: on collision exit
+2016-10-15T08:10:36.949Z - normal: Simulator: on collision enter
+2016-10-15T08:10:36.949Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:36.950Z - normal: Simulator: on collision enter
+2016-10-15T08:10:36.950Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:36.950Z - normal: Simulator: on collision exit
+2016-10-15T08:10:36.950Z - normal: Simulator: on collision exit
+2016-10-15T08:10:36.972Z - normal: Simulator: on collision enter
+2016-10-15T08:10:36.973Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:36.973Z - normal: Simulator: on collision enter
+2016-10-15T08:10:36.973Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:36.974Z - normal: Simulator: on collision exit
+2016-10-15T08:10:36.974Z - normal: Simulator: on collision exit
+2016-10-15T08:10:37.813Z - normal: Simulator: 300.4417344993377
+2016-10-15T08:10:37.814Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:10:37.850Z - normal: Simulator: on collision enter
+2016-10-15T08:10:37.850Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:38.630Z - normal: Simulator: on collision exit
+2016-10-15T08:10:39.696Z - normal: Simulator: on collision enter
+2016-10-15T08:10:39.697Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:40.714Z - normal: Simulator: 330.23295653934633
+2016-10-15T08:10:40.714Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:10:41.729Z - normal: Simulator: on collision exit
+2016-10-15T08:10:42.693Z - normal: Simulator: on collision enter
+2016-10-15T08:10:42.694Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:42.733Z - normal: Simulator: on collision exit
+2016-10-15T08:10:43.530Z - normal: Simulator: 6.145750451394916
+2016-10-15T08:10:43.530Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:10:43.697Z - normal: Simulator: on collision enter
+2016-10-15T08:10:43.697Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:43.862Z - normal: Simulator: on collision exit
+2016-10-15T08:10:44.663Z - normal: Simulator: 403.6160198292501
+2016-10-15T08:10:44.664Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T08:10:45.297Z - normal: Simulator: on collision enter
+2016-10-15T08:10:45.297Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:45.430Z - normal: Simulator: on collision exit
+2016-10-15T08:10:45.781Z - normal: Simulator: 384.3967803762678
+2016-10-15T08:10:45.781Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T08:10:46.599Z - normal: Simulator: on collision enter
+2016-10-15T08:10:46.599Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:46.679Z - normal: Simulator: on collision exit
+2016-10-15T08:10:46.880Z - normal: Simulator: 77.70343170765479
+2016-10-15T08:10:46.881Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T08:10:47.413Z - normal: Simulator: on collision enter
+2016-10-15T08:10:47.413Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:47.529Z - normal: Simulator: on collision exit
+2016-10-15T08:10:48.747Z - normal: Simulator: on collision enter
+2016-10-15T08:10:48.748Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:49.531Z - normal: Simulator: 272.2575834992625
+2016-10-15T08:10:49.536Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:10:49.980Z - normal: Simulator: on collision exit
+2016-10-15T08:10:51.176Z - normal: Simulator: on collision enter
+2016-10-15T08:10:51.176Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:51.809Z - normal: Simulator: on collision enter
+2016-10-15T08:10:51.810Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:51.810Z - normal: Simulator: on collision exit
+2016-10-15T08:10:51.848Z - normal: Simulator: on collision exit
+2016-10-15T08:10:51.849Z - normal: Simulator: on collision enter
+2016-10-15T08:10:51.849Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:51.850Z - normal: Simulator: on collision exit
+2016-10-15T08:10:51.882Z - normal: Simulator: on collision enter
+2016-10-15T08:10:51.882Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:51.883Z - normal: Simulator: on collision enter
+2016-10-15T08:10:51.883Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:51.883Z - normal: Simulator: on collision exit
+2016-10-15T08:10:51.884Z - normal: Simulator: on collision exit
+2016-10-15T08:10:51.947Z - normal: Simulator: on collision enter
+2016-10-15T08:10:51.947Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:51.949Z - normal: Simulator: on collision exit
+2016-10-15T08:10:52.830Z - normal: Simulator: on collision enter
+2016-10-15T08:10:52.830Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:52.865Z - normal: Simulator: 461.00186936350656
+2016-10-15T08:10:52.866Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:10:53.397Z - normal: Simulator: on collision exit
+2016-10-15T08:10:54.580Z - normal: Simulator: on collision enter
+2016-10-15T08:10:54.580Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:54.642Z - normal: Simulator: on collision exit
+2016-10-15T08:10:55.638Z - normal: Simulator: on collision enter
+2016-10-15T08:10:55.639Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:55.731Z - normal: Simulator: on collision exit
+2016-10-15T08:10:56.103Z - normal: Simulator: 155.107528095819
+2016-10-15T08:10:56.104Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:10:56.759Z - normal: Simulator: on collision enter
+2016-10-15T08:10:56.759Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:56.767Z - normal: Simulator: on collision exit
+2016-10-15T08:10:57.697Z - normal: Simulator: on collision enter
+2016-10-15T08:10:57.697Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:57.698Z - normal: Simulator: on collision exit
+2016-10-15T08:10:57.777Z - normal: Simulator: on collision enter
+2016-10-15T08:10:57.778Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:57.779Z - normal: Simulator: on collision exit
+2016-10-15T08:10:57.821Z - normal: Simulator: 190.3983110089832
+2016-10-15T08:10:57.825Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T08:10:57.848Z - normal: Simulator: on collision enter
+2016-10-15T08:10:57.848Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:57.849Z - normal: Simulator: on collision exit
+2016-10-15T08:10:57.941Z - normal: Simulator: on collision enter
+2016-10-15T08:10:57.941Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:57.942Z - normal: Simulator: on collision enter
+2016-10-15T08:10:57.942Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:57.942Z - normal: Simulator: on collision exit
+2016-10-15T08:10:57.942Z - normal: Simulator: on collision exit
+2016-10-15T08:10:57.972Z - normal: Simulator: on collision enter
+2016-10-15T08:10:57.972Z - normal: Simulator: coll tag = 0
+2016-10-15T08:10:58.347Z - normal: Simulator: on collision exit
+2016-10-15T08:10:58.815Z - normal: Simulator: 510.5352732056366
+2016-10-15T08:10:58.816Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T08:10:58.817Z - normal: Simulator: on collision enter
+2016-10-15T08:10:58.817Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:58.818Z - normal: Simulator: on collision exit
+2016-10-15T08:10:58.876Z - normal: Simulator: on collision enter
+2016-10-15T08:10:58.877Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:58.878Z - normal: Simulator: on collision exit
+2016-10-15T08:10:59.013Z - normal: Simulator: on collision enter
+2016-10-15T08:10:59.013Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:59.014Z - normal: Simulator: on collision enter
+2016-10-15T08:10:59.014Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:59.015Z - normal: Simulator: on collision exit
+2016-10-15T08:10:59.016Z - normal: Simulator: on collision exit
+2016-10-15T08:10:59.123Z - normal: Simulator: on collision enter
+2016-10-15T08:10:59.124Z - normal: Simulator: coll tag = 1
+2016-10-15T08:10:59.124Z - normal: Simulator: on collision exit
+2016-10-15T08:10:59.730Z - normal: Simulator: on collision enter
+2016-10-15T08:10:59.730Z - normal: Simulator: coll tag = 0
+2016-10-15T08:11:00.379Z - normal: Simulator: on collision exit
+2016-10-15T08:11:00.496Z - normal: Simulator: 139.03194702222424
+2016-10-15T08:11:00.522Z - normal: Simulator: 产出一个平台,平台数= 3
+2016-10-15T08:11:02.854Z - normal: Simulator: 450.0575607098513
+2016-10-15T08:11:02.858Z - normal: Simulator: 产出一个平台,平台数= 2
+2016-10-15T08:15:46.907Z - normal: Compiled successfully
+2016-10-15T08:15:52.913Z - warn: Profile builder-local warning: reset profile field: previewWidth
+2016-10-15T08:15:52.914Z - warn: Profile builder-local warning: reset profile field: previewHeight
+2016-10-15T08:16:01.736Z - normal: Compiled successfully
+2016-10-15T08:16:03.504Z - normal: 1.2.0
+2016-10-15T08:16:04.279Z - normal: Built to "/Users/mai/mkx-panda/panda-run/build" successfully
+2016-10-15T08:16:25.812Z - normal: Compiled successfully
+2016-10-15T08:16:27.936Z - normal: 1.2.0
+2016-10-15T08:16:28.810Z - normal: Built to "/Users/mai/mkx-panda/panda-run/build" successfully
+2016-10-15T08:22:32.470Z - info: shutdown preview server
